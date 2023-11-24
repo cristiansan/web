@@ -25,6 +25,18 @@ h1 {
   font-size: 1.5em;
 }
 
+/* Botones de cambio de tema */
+.theme-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.theme-buttons button {
+  margin-left: 5px;
+}
+/* Resto de tu CSS */
+
 @media (max-width: 768px) {
   h1 {
     font-size: 3em;
