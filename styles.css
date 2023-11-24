@@ -35,6 +35,30 @@ h1 {
 .theme-buttons button {
   margin-left: 5px;
 }
+
+/* Estilos para el tema dark */
+body.dark-theme {
+  background-color: black;
+  color: white;
+}
+
+/* Estilos para el tema light */
+body.light-theme {
+  background-color: white;
+  color: black;
+}
+
+/* Posicionamiento de los botones */
+.theme-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.theme-buttons button {
+  margin-left: 5px;
+}
+
 /* Resto de tu CSS */
 
 @media (max-width: 768px) {
