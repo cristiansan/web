@@ -1,72 +1,70 @@
+/* Estilos generales */
 body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-color: black;
-  color: white;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  height: 100vh;
-}
-
-.container {
-  text-align: center;
-  margin-top: 10vh; /* Espacio superior ajustado */
-}
-
-h1 {
-  font-size: 4em;
-  margin-bottom: 5px; /* Espacio entre títulos */
-}
-
-.subtitle {
-  font-size: 1.5em;
-}
-
-/* Botones de cambio de tema */
-.theme-buttons {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-}
-
-.theme-buttons button {
-  margin-left: 5px;
+  overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal */
 }
 
 /* Estilos para el tema dark */
-body.dark-theme {
-  background-color: black;
+.dark-theme {
+  background-color: #111;
   color: white;
 }
 
 /* Estilos para el tema light */
-body.light-theme {
+.light-theme {
   background-color: white;
-  color: black;
+  color: #111;
 }
 
-/* Posicionamiento de los botones */
+.container {
+  text-align: center;
+  padding-top: 10vh; /* Ajusta el espacio para el contenido */
+}
+
+.title {
+  font-size: 4em; /* Tamaño del título */
+}
+
+.subtitle {
+  font-size: 1.3em; /* Tamaño del subtítulo */
+  margin-top: 5px;
+}
+
 .theme-buttons {
   position: fixed;
-  bottom: 20px;
+  top: 20px;
   right: 20px;
 }
 
+/* Estilo para los botones */
 .theme-buttons button {
   margin-left: 5px;
+  padding: 0; /* Elimina el relleno para el botón */
+  font-size: 14px;
+  cursor: pointer;
+  border: none; /* Elimina el borde del botón */
+  background: none; /* Elimina el fondo del botón */
+  color: white; /* Establece el color del texto por defecto en blanco */
 }
 
-/* Resto de tu CSS */
+/* Estilo específico para el botón dark */
+.theme-buttons .dark-text {
+  color: #111; /* Establece el color del texto en negro para el botón dark */
+}
+.project {
+  margin-top: 100px;
+  text-align: center; /* Centrar el texto dentro de la sección */
+}
 
-@media (max-width: 768px) {
-  h1 {
-    font-size: 3em;
-  }
+.project h2 {
+  font-size: 1.5em;
+  color: #ffa600fd; /* Color de título */
+}
 
-  .subtitle {
-    font-size: 1.2em;
-  }
+.project p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #ddd; /* Color de texto */
 }
