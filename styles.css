@@ -13,12 +13,12 @@ body {
 
 .container {
   text-align: center;
-  margin-top: 10vh; /* Espacio superior */
+  margin-top: 30vh; /* Espacio superior ajustado */
 }
 
 h1 {
   font-size: 4em;
-  margin-bottom: 10px; /* Espacio entre títulos */
+  margin-bottom: 5px; /* Espacio entre títulos */
 }
 
 .subtitle {
