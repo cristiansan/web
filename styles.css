@@ -55,7 +55,7 @@ body {
 }
 .project {
   margin-top: 100px;
-  text-align: center; /* Centrar el texto dentro de la sección */
+  text-align: center;   /* Centrar el texto dentro de la sección */
 }
 
 .project h2 {
@@ -67,4 +67,14 @@ body {
   font-size: 1.2em;
   line-height: 1.6;
   color: #ddd; /* Color de texto */
+}
+.project-text {
+  text-align: left; /* Alineación del texto a la izquierda */
+  /* display: inline-block; */
+  margin: 0 auto; /* Centrar horizontalmente */
+  max-width: 600px; /* Ancho máximo del texto */
+}
+/* Añade una clase para centrar el texto */
+.text-center {
+  text-align: center;
 }
