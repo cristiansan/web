@@ -1,0 +1,32 @@
+.tabla {
+    background-color: black;
+    color: black;
+    border-collapse: collapse;
+  }
+  
+  .tabla th,
+  .tabla td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  .tabla th {
+    background-color: #333;
+    font-weight: bold;
+  }
+  .custom-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: black; /* Fondo negro */
+    color: black; /* Letras blancas */
+  }
+  
+  .data-row {
+    background-color: black; /* Fondo negro para las filas */
+  }
+  
+  .data-cell {
+    padding: 8px; /* Añadir un espacio de 8px alrededor del contenido de cada celda */
+    border: 1px solid white; /* Borde blanco alrededor de cada celda */
+  }
+  
