@@ -1,5 +1,21 @@
 [
- {
+{
+   "Date": "27 noviembre 2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 7,
+   "LScore": 4,
+   "Map": "Deep Embrace",
+   "Min": 10
+ },{
+   "Date": "27 noviembre 2023",
+   "Name": "Cinic",
+   "Win": 1,
+   "WScore": 7,
+   "LScore": 4,
+   "Map": "Awoken",
+   "Min": 10
+ }, {
    "Date": "27 noviembre 2023",
    "Name": "NickMa",
    "Win": 1,
