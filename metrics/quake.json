@@ -1,5 +1,37 @@
 [
  {
+   "Date": "26 noviembre 2023",
+   "Name": "Cinic",
+   "Win": 1,
+   "WScore": 8,
+   "LScore": 3,
+   "Map": "Deep Embrace",
+   "Min": 10
+ }, {
+   "Date": "26 noviembre 2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 8,
+   "LScore": 7,
+   "Map": "Insomnia",
+   "Min": 10
+ }, {
+   "Date": "26 noviembre 2023",
+   "Name": "Cinic",
+   "Win": 1,
+   "WScore": 6,
+   "LScore": 5,
+   "Map": "Awoken",
+   "Min": 10
+ }, {
+   "Date": "26 noviembre 2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 9,
+   "LScore": 1,
+   "Map": "Deep Embrace",
+   "Min": 10
+ }, {
    "Date": "25 noviembre 2023",
    "Name": "NickMa",
    "Win": 1,
