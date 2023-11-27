@@ -39,6 +39,12 @@ document.addEventListener("DOMContentLoaded", () => {
           const totalPartidos = filteredData.length;
           const partidosCinicGanados = filteredData.filter(item => item.Name === 'Cinic' && item.Win === 1).length;
           const partidosNickMaGanados = filteredData.filter(item => item.Name === 'NickMa' && item.Win === 1).length;
+          // Calcular la cantidad total de minutos jugados
+          const totalMinutosJugados = filteredData.reduce((total, item) => total + (item.Min || 0), 0).toFixed(1);
+          const totalHorasJugadas = (totalMinutosJugados /60).toFixed(1);
+            // Convertir los minutos a días y redondear a un decimal
+            const totalDiasJugados = (totalMinutosJugados / 1440).toFixed(1);
+
 
           // Lógica para determinar el mapa más jugado para el año seleccionado (aquí reemplaza con tu lógica real)
           const mapasJugados = {};
@@ -60,21 +66,28 @@ document.addEventListener("DOMContentLoaded", () => {
             }
           });
   
-          // Mostrar estadísticas
-          statsDiv.innerHTML = `<h2>Estadísticas ${selectedYear}</h2>
-            <p>Total de partidos jugados: ${totalPartidos}</p>
-            <p>Partidos ganados por Cinic: ${partidosCinicGanados}</p>
-            <p>Partidos ganados por NickMa: ${partidosNickMaGanados}</p>
-            <p>Mapa más jugado: ${mapaMasJugado} (${maxVecesJugado} veces)</p>`;
-  
-        //   // Mostrar tabla con los datos filtrados
-        //   let tableHTML = '<h2>Resultados de las partidas:</h2>';
-        //   tableHTML += '<table border="1">';
-        //   tableHTML += '<tr><th>Fecha</th><th>Nombre</th><th>Puntaje Ganador</th><th>Puntaje Perdedor</th><th>Mapa</th></tr>';
-            // Mostrar tabla con los datos filtrados
-            let tableHTML = '<h2>Resultados de las partidas:</h2>';
-            tableHTML += '<table border="1" class="custom-table">'; // Agregar una clase a la tabla
+          // Mostrar estadísticas en una cuadrícula
+            statsDiv.innerHTML = `
+            <h2>Estadísticas ${selectedYear}</h2>
+            <div class="stats-grid">
+            <div class="stats-item">Total de partidos jugados: ${totalPartidos}</div>
+            <div class="stats-item">Partidos ganados por Cinic: ${partidosCinicGanados}</div>
+            <div class="stats-item">Partidos ganados por NickMa: ${partidosNickMaGanados}</div>
+            <div class="stats-item">Mapa más jugado: ${mapaMasJugado} (${maxVecesJugado} veces)</div>
+            <div class="stats-item">Horas jugadas: ${totalHorasJugadas} (${totalDiasJugados} días)</div>
+            </div>
+            `;
 
+        //   statsDiv.innerHTML = `
+        //   <h2>Estadísticas ${selectedYear}</h2>
+        //     <p>Total de partidos jugados: ${totalPartidos}</p>
+        //     <p>Partidos ganados por Cinic: ${partidosCinicGanados}</p>
+        //     <p>Partidos ganados por NickMa: ${partidosNickMaGanados}</p>
+        //     <p>Mapa + jugado: ${mapaMasJugado} (${maxVecesJugado} veces)</p>
+        //     <p>Horas jugadas: ${totalHorasJugadas} (${totalDiasJugados} días)</p>`;
+        
+            let tableHTML = '<h2></h2>'; 
+            tableHTML += '<table border="1" class="custom-table">'; // Agregar una clase a la tabla
             tableHTML += '<tr>';
             tableHTML += '<th>Date</th>';
             tableHTML += '<th>Nick</th>';
@@ -97,6 +110,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
           // Mostrar la tabla actualizada
           resultadosDiv.innerHTML = tableHTML;
+          
         });
   
         // Simulación de la selección inicial de 'All' para mostrar todos los datos al cargar la página

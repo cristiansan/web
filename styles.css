@@ -1,80 +1,75 @@
-/* Estilos generales */
-body {
-  margin: 0;
-  padding: 0;
-  font-family: Arial, sans-serif;
-  overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal */
-}
+/* Estilos para la tabla */
+.tabla {
+    width: 100%; /* Ancho de la tabla */
+    max-height: 500px; /* Altura máxima de la tabla */
+    overflow-y: auto; /* Agregar desplazamiento vertical */
+    display: block; /* Hacer que la tabla sea un bloque */
+    border-collapse: collapse; /* Colapsar los bordes de la tabla */
+  }
 
-/* Estilos para el tema dark */
-.dark-theme {
-  background-color: #111;
-  color: white;
-}
+  .custom-table {
+    width: 100%;
+    border-collapse: separate;
+  }
 
-/* Estilos para el tema light */
-.light-theme {
-  background-color: white;
-  color: #111;
-}
+  .custom-table th,
+  .custom-table td {
+    border: 1px solid white;
+    padding: 8px;
+  }
 
-.container {
-  text-align: center;
-  padding-top: 10vh; /* Ajusta el espacio para el contenido */
-}
+  .tabla th,
+  .tabla td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  .tabla th {
+    background-color: #333;
+    font-weight: bold;
+  }
+  .custom-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: black; /* Fondo negro */
+    color: black; /* Letras blancas */
+  }
+  
+  .data-row {
+    background-color: black; /* Fondo negro para las filas */
+  }
+  
+  .data-cell {
+    padding: 8px; /* Añadir un espacio de 8px alrededor del contenido de cada celda */
+    border: 1px solid white; /* Borde blanco alrededor de cada celda */
+  }
+  /* Estilos para la cuadrícula */
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas con el mismo ancho */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Cada columna tendrá un ancho mínimo de 300px */
+    border: 1px solid white;
+    grid-gap: 20px; /* Espacio entre las estadísticas */
+  }
+  
+  /* Estilos para cada estadística */
+  .stats-item {
+    background-color: #a91717; /* Color de fondo para cada elemento */
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(130, 20, 20); /* Color del texto */
+    border: 1px solid rgb(93, 12, 12);
+  }
+    /* Estilos para la cuadrícula */
+    .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    }
 
-.title {
-  font-size: 4em; /* Tamaño del título */
-}
-
-.subtitle {
-  font-size: 1.3em; /* Tamaño del subtítulo */
-  margin-top: 5px;
-}
-
-.theme-buttons {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-}
-
-/* Estilo para los botones */
-.theme-buttons button {
-  margin-left: 5px;
-  padding: 0; /* Elimina el relleno para el botón */
-  font-size: 14px;
-  cursor: pointer;
-  border: none; /* Elimina el borde del botón */
-  background: none; /* Elimina el fondo del botón */
-  color: white; /* Establece el color del texto por defecto en blanco */
-}
-
-/* Estilo específico para el botón dark */
-.theme-buttons .dark-text {
-  color: #111; /* Establece el color del texto en negro para el botón dark */
-}
-.project {
-  margin-top: 100px;
-  text-align: center;   /* Centrar el texto dentro de la sección */
-}
-
-.project h2 {
-  font-size: 1.5em;
-  color: #ffa600fd; /* Color de título */
-}
-
-.project p {
-  font-size: 1.2em;
-  line-height: 1.6;
-  color: #ddd; /* Color de texto */
-}
-.project-text {
-  text-align: left; /* Alineación del texto a la izquierda */
-  /* display: inline-block; */
-  margin: 0 auto; /* Centrar horizontalmente */
-  max-width: 600px; /* Ancho máximo del texto */
-}
-/* Añade una clase para centrar el texto */
-.text-center {
-  text-align: center;
-}
+    .grid-item {
+    background-color: #a91717;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(174, 13, 13);
+    }
