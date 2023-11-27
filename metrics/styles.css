@@ -1,9 +1,23 @@
+/* Estilos para la tabla */
 .tabla {
-    background-color: black;
-    color: black;
-    border-collapse: collapse;
+    width: 100%; /* Ancho de la tabla */
+    max-height: 500px; /* Altura máxima de la tabla */
+    overflow-y: auto; /* Agregar desplazamiento vertical */
+    display: block; /* Hacer que la tabla sea un bloque */
+    border-collapse: collapse; /* Colapsar los bordes de la tabla */
   }
-  
+
+  .custom-table {
+    width: 100%;
+    border-collapse: separate;
+  }
+
+  .custom-table th,
+  .custom-table td {
+    border: 1px solid white;
+    padding: 8px;
+  }
+
   .tabla th,
   .tabla td {
     border: 1px solid black;
@@ -29,4 +43,33 @@
     padding: 8px; /* Añadir un espacio de 8px alrededor del contenido de cada celda */
     border: 1px solid white; /* Borde blanco alrededor de cada celda */
   }
+  /* Estilos para la cuadrícula */
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas con el mismo ancho */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Cada columna tendrá un ancho mínimo de 300px */
+    border: 1px solid white;
+    grid-gap: 20px; /* Espacio entre las estadísticas */
+  }
   
+  /* Estilos para cada estadística */
+  .stats-item {
+    background-color: #a91717; /* Color de fondo para cada elemento */
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(130, 20, 20); /* Color del texto */
+    border: 1px solid rgb(93, 12, 12);
+  }
+    /* Estilos para la cuadrícula */
+    .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    }
+
+    .grid-item {
+    background-color: #a91717;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(174, 13, 13);
+    }
