@@ -13,12 +13,14 @@ document.addEventListener("DOMContentLoaded", () => {
         const uniqueYears = [...new Set(data
           .map(item => new Date(item.Date).getFullYear()) // Obtener el año de cada fecha
           .filter(year => !isNaN(year)) // Filtrar solo años válidos (no NaN)
+          .filter(year => year === 2022 || year === 2023) // Filtrar solo años 2022 y 2023
           .map(String) // Convertir años a cadenas
         )].map(year => (year === 'NaN' ? 'All' : year)); // Reemplazar NaN por 'All'
   
         // Agregar opción 'All' al principio del menú desplegable
         uniqueYears.unshift('All');
-  
+
+
         // Llenar el select con las opciones de años
         uniqueYears.forEach(year => {
           const option = document.createElement('option');
@@ -31,10 +33,44 @@ document.addEventListener("DOMContentLoaded", () => {
         selectYear.addEventListener('change', () => {
           const selectedYear = selectYear.value;
   
-          // Filtrar datos basados en el año seleccionado o mostrar todos los datos si se selecciona 'All'
-          const filteredData = selectedYear === 'All' ? data :
-            data.filter(item => new Date(item.Date).getFullYear().toString() === selectedYear);
-  
+        //   // Filtrar datos basados en el año seleccionado o mostrar todos los datos si se selecciona 'All'
+        //   const filteredData = selectedYear === 'All' ? data :
+        //     data.filter(item => new Date(item.Date).getFullYear().toString() === selectedYear);
+
+             // Filtrar datos basados en el año seleccionado o mostrar todos los datos si se selecciona 'All'
+            // const filteredData = selectedYear === 'All' ? data :
+            // data.filter(item => {
+            //     const itemDate = new Date(item.Date);
+            //     return itemDate.getFullYear().toString() === selectedYear;
+            // });
+// Filtrar datos basados en el año seleccionado o mostrar todos los datos si se selecciona 'All'
+const filteredData = selectedYear === 'All' ? data :
+data.filter(item => {
+    const [day, month, year] = item.Date.split('/');
+    return year === selectedYear;
+});
+
+// Filtrar los datos de octubre del año seleccionado
+const octoberData = filteredData.filter(item => {
+const [day, month, year] = item.Date.split('/');
+return year === selectedYear && month === '10'; // '10' representa octubre
+});
+
+
+    // // Filtrar los datos de octubre de 2022
+    // const october2022Data = filteredData.filter(item => {
+    //     const [day, month, year] = item.Date.split('/');
+    //     return year === '2022' && month === '10'; // '10' representa octubre
+    // });
+
+
+
+
+
+
+
+
+
           // Calcular estadísticas simples (ejemplo: contar el número de partidos)
           const totalPartidos = filteredData.length;
           const partidosCinicGanados = filteredData.filter(item => item.Name === 'Cinic' && item.Win === 1).length;
@@ -117,7 +153,6 @@ document.addEventListener("DOMContentLoaded", () => {
         selectYear.value = 'All';
         selectYear.dispatchEvent(new Event('change'));
   
-        // ... (resto del código)
       })
       .catch(error => {
         console.error('Error al cargar el JSON:', error);
