@@ -3,8 +3,64 @@
    "Date": "29/11/2023",
    "Name": "NickMa",
    "Win": 1,
+   "WScore": 10,
+   "LScore": 12,
+   "Map": "Deep Embrace",
+   "Min": 10
+ }, {
+   "Date": "29/11/2023",
+   "Name": "Cinic",
+   "Win": 1,
+   "WScore": 7,
+   "LScore": 6,
+   "Map": "Awoken",
+   "Min": 10
+ }, {
+   "Date": "29/11/2023",
+   "Name": "Cinic",
+   "Win": 1,
+   "WScore": 4,
+   "LScore": 0,
+   "Map": "Insomnia",
+   "Min": 10
+ }, {
+   "Date": "29/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
    "WScore": 11,
-   "LScore": 8,
+   "LScore": 9,
+   "Map": "Deep Embrace",
+   "Min": 10
+ }, {
+   "Date": "29/11/2023",
+   "Name": "Cinic",
+   "Win": 1,
+   "WScore": 8,
+   "LScore": 7,
+   "Map": "Insomnia",
+   "Min": 10
+ }, {
+   "Date": "29/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 13,
+   "LScore": 9,
+   "Map": "Awoken",
+   "Min": 10
+ }, {
+   "Date": "29/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 13,
+   "LScore": 4,
+   "Map": "Deep Embrace",
+   "Min": 10
+ }, {
+   "Date": "29/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 11,
+   "LScore": 9,
    "Map": "Awoken",
    "Min": 10
  }, {
@@ -982,7 +1038,7 @@
  {
    "Date": "15/11/2023",
    "Name": "Empate",
-   "Win": 1,
+   "Win": 0,
    "WScore": 8,
    "LScore": 8,
    "Map": "Awoken",
@@ -1603,7 +1659,7 @@
  {
    "Date": "7/11/2023",
    "Name": "Empate",
-   "Win": 1,
+   "Win": 0,
    "WScore": 5,
    "LScore": 5,
    "Map": "Deep Embrace",

@@ -20,7 +20,6 @@ document.addEventListener("DOMContentLoaded", () => {
         // Agregar opción 'All' al principio del menú desplegable
         uniqueYears.unshift('All');
 
-
         // Llenar el select con las opciones de años
         uniqueYears.forEach(year => {
           const option = document.createElement('option');
@@ -33,53 +32,30 @@ document.addEventListener("DOMContentLoaded", () => {
         selectYear.addEventListener('change', () => {
           const selectedYear = selectYear.value;
   
-        //   // Filtrar datos basados en el año seleccionado o mostrar todos los datos si se selecciona 'All'
-        //   const filteredData = selectedYear === 'All' ? data :
-        //     data.filter(item => new Date(item.Date).getFullYear().toString() === selectedYear);
+        // Filtrar datos basados en el año seleccionado o mostrar todos los datos si se selecciona 'All'
+        const filteredData = selectedYear === 'All' ? data :
+        data.filter(item => {
+            const [day, month, year] = item.Date.split('/');
+            return year === selectedYear;
+        });
 
-             // Filtrar datos basados en el año seleccionado o mostrar todos los datos si se selecciona 'All'
-            // const filteredData = selectedYear === 'All' ? data :
-            // data.filter(item => {
-            //     const itemDate = new Date(item.Date);
-            //     return itemDate.getFullYear().toString() === selectedYear;
-            // });
-// Filtrar datos basados en el año seleccionado o mostrar todos los datos si se selecciona 'All'
-const filteredData = selectedYear === 'All' ? data :
-data.filter(item => {
-    const [day, month, year] = item.Date.split('/');
-    return year === selectedYear;
-});
-
-// Filtrar los datos de octubre del año seleccionado
-const octoberData = filteredData.filter(item => {
-const [day, month, year] = item.Date.split('/');
-return year === selectedYear && month === '10'; // '10' representa octubre
-});
-
-
-    // // Filtrar los datos de octubre de 2022
-    // const october2022Data = filteredData.filter(item => {
-    //     const [day, month, year] = item.Date.split('/');
-    //     return year === '2022' && month === '10'; // '10' representa octubre
-    // });
-
-
-
-
-
-
-
+        // Filtrar los datos de octubre del año seleccionado
+        const octoberData = filteredData.filter(item => {
+        const [day, month, year] = item.Date.split('/');
+        return year === selectedYear && month === '10'; // '10' representa octubre
+        });
 
 
           // Calcular estadísticas simples (ejemplo: contar el número de partidos)
           const totalPartidos = filteredData.length;
           const partidosCinicGanados = filteredData.filter(item => item.Name === 'Cinic' && item.Win === 1).length;
           const partidosNickMaGanados = filteredData.filter(item => item.Name === 'NickMa' && item.Win === 1).length;
+          const partidosEmpatados = filteredData.filter(item => item.Win === 0).length;
           // Calcular la cantidad total de minutos jugados
           const totalMinutosJugados = filteredData.reduce((total, item) => total + (item.Min || 0), 0).toFixed(1);
           const totalHorasJugadas = (totalMinutosJugados /60).toFixed(1);
-            // Convertir los minutos a días y redondear a un decimal
-            const totalDiasJugados = (totalMinutosJugados / 1440).toFixed(1);
+          // Convertir los minutos a días y redondear a un decimal
+          const totalDiasJugados = (totalMinutosJugados / 1440).toFixed(1);
 
 
           // Lógica para determinar el mapa más jugado para el año seleccionado (aquí reemplaza con tu lógica real)
@@ -109,19 +85,12 @@ return year === selectedYear && month === '10'; // '10' representa octubre
             <div class="stats-item">Total de partidos jugados: ${totalPartidos}</div>
             <div class="stats-item">Partidos ganados por Cinic: ${partidosCinicGanados}</div>
             <div class="stats-item">Partidos ganados por NickMa: ${partidosNickMaGanados}</div>
+            <div class="stats-item">Partidos empatados: ${partidosEmpatados}</div>
             <div class="stats-item">Mapa más jugado: ${mapaMasJugado} (${maxVecesJugado} veces)</div>
             <div class="stats-item">Horas jugadas: ${totalHorasJugadas} (${totalDiasJugados} días)</div>
             </div>
             `;
 
-        //   statsDiv.innerHTML = `
-        //   <h2>Estadísticas ${selectedYear}</h2>
-        //     <p>Total de partidos jugados: ${totalPartidos}</p>
-        //     <p>Partidos ganados por Cinic: ${partidosCinicGanados}</p>
-        //     <p>Partidos ganados por NickMa: ${partidosNickMaGanados}</p>
-        //     <p>Mapa + jugado: ${mapaMasJugado} (${maxVecesJugado} veces)</p>
-        //     <p>Horas jugadas: ${totalHorasJugadas} (${totalDiasJugados} días)</p>`;
-        
             let tableHTML = '<h2></h2>'; 
             tableHTML += '<table border="1" class="custom-table">'; // Agregar una clase a la tabla
             tableHTML += '<tr>';
