@@ -1,150 +1,275 @@
 [
-{
-   "Date": "27 noviembre 2023",
+ {
+   "Date": "29/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 11,
+   "LScore": 8,
+   "Map": "Awoken",
+   "Min": 10
+ }, {
+   "Date": "29/11/2023",
+   "Name": "Cinic",
+   "Win": 1,
+   "WScore": 8,
+   "LScore": 6,
+   "Map": "Insomnia",
+   "Min": 10
+ }, {
+   "Date": "29/11/2023",
+   "Name": "Cinic",
+   "Win": 1,
+   "WScore": 9,
+   "LScore": 7,
+   "Map": "Deep Embrace",
+   "Min": 10
+ }, {
+   "Date": "29/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 14,
+   "LScore": 8,
+   "Map": "Awoken",
+   "Min": 10
+ }, {
+   "Date": "28/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 11,
+   "LScore": 9,
+   "Map": "Deep Embrace",
+   "Min": 10
+ }, {
+   "Date": "28/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 16,
+   "LScore": 9,
+   "Map": "Insomnia",
+   "Min": 10
+ }, {
+   "Date": "28/11/2023",
+   "Name": "Cinic",
+   "Win": 1,
+   "WScore": 10,
+   "LScore": 9,
+   "Map": "Awoken",
+   "Min": 10
+ }, {
+   "Date": "28/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 10,
+   "LScore": 9,
+   "Map": "Deep Embrace",
+   "Min": 10
+ }, {
+   "Date": "28/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 12,
+   "LScore": 5,
+   "Map": "Insomnia",
+   "Min": 10
+ }, {
+   "Date": "28/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 15,
+   "LScore": 10,
+   "Map": "Deep Embrace",
+   "Min": 10
+ }, {
+   "Date": "28/11/2023",
+   "Name": "Cinic",
+   "Win": 1,
+   "WScore": 11,
+   "LScore": 9,
+   "Map": "Awoken",
+   "Min": 10
+ },
+ {
+   "Date": "28/11/2023",
+   "Name": "Abandono",
+   "Win": 1,
+   "WScore": 6,
+   "LScore": 3,
+   "Map": "Insomnia",
+   "Min": 10
+ },
+ {
+   "Date": "28/11/2023",
+   "Name": "NickMa",
+   "Win": 1,
+   "WScore": 10,
+   "LScore": 8,
+   "Map": "Deep Embrace",
+   "Min": 10
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
    "LScore": 6,
    "Map": "Awoken",
    "Min": 10
- },{
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
    "LScore": 8,
    "Map": "Deep Embrace",
    "Min": 10
- },{
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
    "LScore": 4,
    "Map": "Insomnia",
    "Min": 10
- },{
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
    "LScore": 8,
-   "Map": "Awokene",
+   "Map": "Awoken",
    "Min": 10
- },{
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
    "LScore": 9,
    "Map": "Deep Embrace",
    "Min": 10
- },{
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 6,
    "LScore": 5,
    "Map": "Insomnia",
    "Min": 10
- },{
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
    "LScore": 8,
    "Map": "Awoken",
    "Min": 10
- },{
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
    "LScore": 4,
    "Map": "Deep Embrace",
    "Min": 10
- },{
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
    "LScore": 4,
-   "Map": "Awoken",
+   "Map": "Insomnia",
    "Min": 10
- }, {
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
    "LScore": 8,
    "Map": "Awoken",
    "Min": 10
- }, {
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
    "LScore": 6,
    "Map": "Deep Embrace",
    "Min": 10
- }, {
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
    "LScore": 8,
    "Map": "Insomnia",
    "Min": 10
- }, {
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
    "LScore": 4,
    "Map": "Awoken",
    "Min": 10
- }, {
-   "Date": "27 noviembre 2023",
+ },
+ {
+   "Date": "27/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
    "LScore": 6,
    "Map": "Deep Embrace",
    "Min": 10
- }, {
-   "Date": "26 noviembre 2023",
+ },
+ {
+   "Date": "26/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
    "LScore": 3,
    "Map": "Deep Embrace",
    "Min": 10
- }, {
-   "Date": "26 noviembre 2023",
+ },
+ {
+   "Date": "26/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
    "LScore": 7,
    "Map": "Insomnia",
    "Min": 10
- }, {
-   "Date": "26 noviembre 2023",
+ },
+ {
+   "Date": "26/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
    "LScore": 5,
    "Map": "Awoken",
    "Min": 10
- }, {
-   "Date": "26 noviembre 2023",
+ },
+ {
+   "Date": "26/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
    "LScore": 1,
    "Map": "Deep Embrace",
    "Min": 10
- }, {
-   "Date": "25 noviembre 2023",
+ },
+ {
+   "Date": "25/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -153,7 +278,7 @@
    "Min": 10
  },
  {
-   "Date": "25 noviembre 2023",
+   "Date": "25/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -162,7 +287,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -171,7 +296,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -180,7 +305,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -189,7 +314,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "Abandono",
    "Win": 1,
    "WScore": 5,
@@ -198,7 +323,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -207,7 +332,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -216,7 +341,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -225,7 +350,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -234,7 +359,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -243,7 +368,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 4,
@@ -252,7 +377,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -261,7 +386,7 @@
    "Min": 10
  },
  {
-   "Date": "24 noviembre 2023",
+   "Date": "24/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -270,7 +395,7 @@
    "Min": 10
  },
  {
-   "Date": "23 noviembre 2023",
+   "Date": "23/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -279,7 +404,7 @@
    "Min": 10
  },
  {
-   "Date": "23 noviembre 2023",
+   "Date": "23/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -288,7 +413,7 @@
    "Min": 10
  },
  {
-   "Date": "23 noviembre 2023",
+   "Date": "23/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -297,7 +422,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -306,7 +431,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -315,7 +440,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 17,
@@ -324,7 +449,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -333,7 +458,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -342,7 +467,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -351,7 +476,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -360,7 +485,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -369,7 +494,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -378,7 +503,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 18,
@@ -387,7 +512,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -396,7 +521,7 @@
    "Min": 10
  },
  {
-   "Date": "22 noviembre 2023",
+   "Date": "22/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -405,7 +530,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -414,7 +539,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -423,7 +548,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -432,7 +557,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -441,7 +566,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -450,7 +575,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -459,7 +584,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -468,7 +593,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -477,7 +602,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -486,7 +611,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -495,7 +620,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -504,7 +629,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -513,7 +638,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -522,7 +647,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -531,7 +656,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -540,7 +665,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -549,7 +674,7 @@
    "Min": 10
  },
  {
-   "Date": "21 noviembre 2023",
+   "Date": "21/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -558,7 +683,7 @@
    "Min": 10
  },
  {
-   "Date": "20 noviembre 2023",
+   "Date": "20/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -567,7 +692,7 @@
    "Min": 10
  },
  {
-   "Date": "20 noviembre 2023",
+   "Date": "20/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -576,7 +701,7 @@
    "Min": 10
  },
  {
-   "Date": "20 noviembre 2023",
+   "Date": "20/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -585,7 +710,7 @@
    "Min": 10
  },
  {
-   "Date": "20 noviembre 2023",
+   "Date": "20/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -594,7 +719,7 @@
    "Min": 10
  },
  {
-   "Date": "20 noviembre 2023",
+   "Date": "20/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -603,7 +728,7 @@
    "Min": 10
  },
  {
-   "Date": "20 noviembre 2023",
+   "Date": "20/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -612,7 +737,7 @@
    "Min": 10
  },
  {
-   "Date": "20 noviembre 2023",
+   "Date": "20/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -621,7 +746,7 @@
    "Min": 10
  },
  {
-   "Date": "20 noviembre 2023",
+   "Date": "20/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -630,7 +755,7 @@
    "Min": 10
  },
  {
-   "Date": "17 noviembre 2023",
+   "Date": "17/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 6,
@@ -639,7 +764,7 @@
    "Min": 10
  },
  {
-   "Date": "17 noviembre 2023",
+   "Date": "17/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -648,7 +773,7 @@
    "Min": 10
  },
  {
-   "Date": "17 noviembre 2023",
+   "Date": "17/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -657,7 +782,7 @@
    "Min": 10
  },
  {
-   "Date": "17 noviembre 2023",
+   "Date": "17/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -666,7 +791,7 @@
    "Min": 10
  },
  {
-   "Date": "17 noviembre 2023",
+   "Date": "17/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -675,7 +800,7 @@
    "Min": 10
  },
  {
-   "Date": "17 noviembre 2023",
+   "Date": "17/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -684,7 +809,7 @@
    "Min": 10
  },
  {
-   "Date": "17 noviembre 2023",
+   "Date": "17/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -693,7 +818,7 @@
    "Min": 10
  },
  {
-   "Date": "17 noviembre 2023",
+   "Date": "17/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -702,7 +827,7 @@
    "Min": 10
  },
  {
-   "Date": "17 noviembre 2023",
+   "Date": "17/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -711,7 +836,7 @@
    "Min": 10
  },
  {
-   "Date": "17 noviembre 2023",
+   "Date": "17/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -720,7 +845,7 @@
    "Min": 10
  },
  {
-   "Date": "16 noviembre 2023",
+   "Date": "16/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -729,7 +854,7 @@
    "Min": 10
  },
  {
-   "Date": "16 noviembre 2023",
+   "Date": "16/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -738,7 +863,7 @@
    "Min": 10
  },
  {
-   "Date": "16 noviembre 2023",
+   "Date": "16/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -747,7 +872,7 @@
    "Min": 10
  },
  {
-   "Date": "16 noviembre 2023",
+   "Date": "16/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -756,7 +881,7 @@
    "Min": 10
  },
  {
-   "Date": "16 noviembre 2023",
+   "Date": "16/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -765,7 +890,7 @@
    "Min": 10
  },
  {
-   "Date": "16 noviembre 2023",
+   "Date": "16/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -774,7 +899,7 @@
    "Min": 10
  },
  {
-   "Date": "16 noviembre 2023",
+   "Date": "16/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -783,7 +908,7 @@
    "Min": 10
  },
  {
-   "Date": "16 noviembre 2023",
+   "Date": "16/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -792,7 +917,7 @@
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -801,7 +926,7 @@
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -810,7 +935,7 @@
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -819,7 +944,7 @@
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -828,7 +953,7 @@
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -837,7 +962,7 @@
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -846,7 +971,7 @@
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -855,16 +980,16 @@
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "Empate",
-   "Win": 1,
+   "Win": 0,
    "WScore": 8,
    "LScore": 8,
    "Map": "Awoken",
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -873,7 +998,7 @@
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -882,7 +1007,7 @@
    "Min": 10
  },
  {
-   "Date": "15 noviembre 2023",
+   "Date": "15/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -891,7 +1016,7 @@
    "Min": 10
  },
  {
-   "Date": "14 noviembre 2023",
+   "Date": "14/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -900,7 +1025,7 @@
    "Min": 10
  },
  {
-   "Date": "14 noviembre 2023",
+   "Date": "14/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -909,7 +1034,7 @@
    "Min": 10
  },
  {
-   "Date": "14 noviembre 2023",
+   "Date": "14/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -918,7 +1043,7 @@
    "Min": 10
  },
  {
-   "Date": "14 noviembre 2023",
+   "Date": "14/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -927,7 +1052,7 @@
    "Min": 10
  },
  {
-   "Date": "14 noviembre 2023",
+   "Date": "14/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -936,7 +1061,7 @@
    "Min": 10
  },
  {
-   "Date": "14 noviembre 2023",
+   "Date": "14/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -945,7 +1070,7 @@
    "Min": 10
  },
  {
-   "Date": "14 noviembre 2023",
+   "Date": "14/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -954,7 +1079,7 @@
    "Min": 10
  },
  {
-   "Date": "14 noviembre 2023",
+   "Date": "14/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -963,7 +1088,7 @@
    "Min": 10
  },
  {
-   "Date": "14 noviembre 2023",
+   "Date": "14/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -972,7 +1097,7 @@
    "Min": 10
  },
  {
-   "Date": "13 noviembre 2023",
+   "Date": "13/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -981,7 +1106,7 @@
    "Min": 10
  },
  {
-   "Date": "13 noviembre 2023",
+   "Date": "13/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -990,7 +1115,7 @@
    "Min": 10
  },
  {
-   "Date": "13 noviembre 2023",
+   "Date": "13/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -999,7 +1124,7 @@
    "Min": 10
  },
  {
-   "Date": "13 noviembre 2023",
+   "Date": "13/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1008,7 +1133,7 @@
    "Min": 10
  },
  {
-   "Date": "13 noviembre 2023",
+   "Date": "13/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -1017,7 +1142,7 @@
    "Min": 10
  },
  {
-   "Date": "13 noviembre 2023",
+   "Date": "13/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -1026,7 +1151,7 @@
    "Min": 10
  },
  {
-   "Date": "13 noviembre 2023",
+   "Date": "13/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1035,7 +1160,7 @@
    "Min": 10
  },
  {
-   "Date": "13 noviembre 2023",
+   "Date": "13/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -1044,7 +1169,7 @@
    "Min": 10
  },
  {
-   "Date": "13 noviembre 2023",
+   "Date": "13/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1053,7 +1178,7 @@
    "Min": 10
  },
  {
-   "Date": "13 noviembre 2023",
+   "Date": "13/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1062,7 +1187,7 @@
    "Min": 10
  },
  {
-   "Date": "12 noviembre 2023",
+   "Date": "12/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -1071,7 +1196,7 @@
    "Min": 10
  },
  {
-   "Date": "12 noviembre 2023",
+   "Date": "12/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 17,
@@ -1080,7 +1205,7 @@
    "Min": 10
  },
  {
-   "Date": "12 noviembre 2023",
+   "Date": "12/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -1089,7 +1214,7 @@
    "Min": 10
  },
  {
-   "Date": "12 noviembre 2023",
+   "Date": "12/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -1098,7 +1223,7 @@
    "Min": 10
  },
  {
-   "Date": "12 noviembre 2023",
+   "Date": "12/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -1107,7 +1232,7 @@
    "Min": 10
  },
  {
-   "Date": "12 noviembre 2023",
+   "Date": "12/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -1116,7 +1241,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 5,
@@ -1125,7 +1250,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1134,7 +1259,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -1143,7 +1268,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -1152,7 +1277,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 4,
@@ -1161,7 +1286,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -1170,7 +1295,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1179,7 +1304,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -1188,7 +1313,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1197,7 +1322,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -1206,7 +1331,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1215,7 +1340,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2023",
+   "Date": "11/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -1224,7 +1349,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2023",
+   "Date": "10/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -1233,7 +1358,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2023",
+   "Date": "10/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1242,7 +1367,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2023",
+   "Date": "10/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -1251,7 +1376,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2023",
+   "Date": "10/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -1260,7 +1385,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2023",
+   "Date": "10/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -1269,7 +1394,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2023",
+   "Date": "10/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 5,
@@ -1278,7 +1403,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2023",
+   "Date": "10/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -1287,7 +1412,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2023",
+   "Date": "10/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -1296,7 +1421,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2023",
+   "Date": "10/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -1305,7 +1430,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2023",
+   "Date": "9/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -1314,7 +1439,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2023",
+   "Date": "9/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -1323,7 +1448,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2023",
+   "Date": "9/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1332,7 +1457,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2023",
+   "Date": "9/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -1341,7 +1466,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2023",
+   "Date": "9/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 6,
@@ -1350,7 +1475,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2023",
+   "Date": "9/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -1359,7 +1484,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2023",
+   "Date": "9/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1368,7 +1493,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2023",
+   "Date": "9/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -1377,7 +1502,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2023",
+   "Date": "9/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1386,7 +1511,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2023",
+   "Date": "8/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -1395,7 +1520,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2023",
+   "Date": "8/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -1404,7 +1529,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2023",
+   "Date": "8/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -1413,7 +1538,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2023",
+   "Date": "8/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -1422,7 +1547,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2023",
+   "Date": "8/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -1431,7 +1556,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2023",
+   "Date": "8/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -1440,7 +1565,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2023",
+   "Date": "8/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -1449,7 +1574,7 @@
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2023",
+   "Date": "7/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -1458,7 +1583,7 @@
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2023",
+   "Date": "7/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -1467,7 +1592,7 @@
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2023",
+   "Date": "7/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1476,16 +1601,16 @@
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2023",
+   "Date": "7/11/2023",
    "Name": "Empate",
-   "Win": 1,
+   "Win": 0,
    "WScore": 5,
    "LScore": 5,
    "Map": "Deep Embrace",
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2023",
+   "Date": "7/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -1494,7 +1619,7 @@
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2023",
+   "Date": "7/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -1503,7 +1628,7 @@
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2023",
+   "Date": "7/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -1512,7 +1637,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -1521,7 +1646,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -1530,7 +1655,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -1539,7 +1664,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1548,7 +1673,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -1557,7 +1682,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -1566,7 +1691,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -1575,7 +1700,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1584,7 +1709,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1593,7 +1718,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -1602,7 +1727,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -1611,7 +1736,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -1620,7 +1745,7 @@
    "Min": 10
  },
  {
-   "Date": "6 noviembre 2023",
+   "Date": "6/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -1629,7 +1754,7 @@
    "Min": 10
  },
  {
-   "Date": "5 noviembre 2023",
+   "Date": "5/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -1638,7 +1763,7 @@
    "Min": 10
  },
  {
-   "Date": "5 noviembre 2023",
+   "Date": "5/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 5,
@@ -1647,7 +1772,7 @@
    "Min": 10
  },
  {
-   "Date": "5 noviembre 2023",
+   "Date": "5/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -1656,7 +1781,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2023",
+   "Date": "4/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -1665,7 +1790,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2023",
+   "Date": "4/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -1674,7 +1799,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2023",
+   "Date": "4/11/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -1683,7 +1808,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2023",
+   "Date": "4/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -1692,7 +1817,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2023",
+   "Date": "4/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -1701,7 +1826,7 @@
    "Min": 10
  },
  {
-   "Date": "3 noviembre 2023",
+   "Date": "3/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -1710,7 +1835,7 @@
    "Min": 10
  },
  {
-   "Date": "3 noviembre 2023",
+   "Date": "3/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -1719,7 +1844,7 @@
    "Min": 10
  },
  {
-   "Date": "3 noviembre 2023",
+   "Date": "3/11/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -1728,7 +1853,7 @@
    "Min": 10
  },
  {
-   "Date": "2 mayo 2023",
+   "Date": "2/05/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -1737,7 +1862,7 @@
    "Min": 10
  },
  {
-   "Date": "2 mayo 2023",
+   "Date": "2/05/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -1746,7 +1871,7 @@
    "Min": 10
  },
  {
-   "Date": "2 mayo 2023",
+   "Date": "2/05/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1755,7 +1880,7 @@
    "Min": 10
  },
  {
-   "Date": "2 mayo 2023",
+   "Date": "2/05/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -1764,7 +1889,7 @@
    "Min": 10
  },
  {
-   "Date": "2 mayo 2023",
+   "Date": "2/05/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -1773,7 +1898,7 @@
    "Min": 10
  },
  {
-   "Date": "2 mayo 2023",
+   "Date": "2/05/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -1782,7 +1907,7 @@
    "Min": 10
  },
  {
-   "Date": "2 mayo 2023",
+   "Date": "2/05/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1791,7 +1916,7 @@
    "Min": 10
  },
  {
-   "Date": "2 mayo 2023",
+   "Date": "2/05/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -1800,7 +1925,7 @@
    "Min": 10
  },
  {
-   "Date": "1 mayo 2023",
+   "Date": "1/05/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -1809,7 +1934,7 @@
    "Min": 10
  },
  {
-   "Date": "1 mayo 2023",
+   "Date": "1/05/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -1818,7 +1943,7 @@
    "Min": 10
  },
  {
-   "Date": "1 mayo 2023",
+   "Date": "1/05/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -1827,7 +1952,7 @@
    "Min": 10
  },
  {
-   "Date": "1 mayo 2023",
+   "Date": "1/05/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -1836,7 +1961,7 @@
    "Min": 10
  },
  {
-   "Date": "1 mayo 2023",
+   "Date": "1/05/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -1845,7 +1970,7 @@
    "Min": 10
  },
  {
-   "Date": "1 mayo 2023",
+   "Date": "1/05/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -1854,7 +1979,7 @@
    "Min": 10
  },
  {
-   "Date": "1 mayo 2023",
+   "Date": "1/05/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -1863,7 +1988,7 @@
    "Min": 10
  },
  {
-   "Date": "30 abril 2023",
+   "Date": "30/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -1872,7 +1997,7 @@
    "Min": 10
  },
  {
-   "Date": "30 abril 2023",
+   "Date": "30/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1881,7 +2006,7 @@
    "Min": 10
  },
  {
-   "Date": "30 abril 2023",
+   "Date": "30/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -1890,7 +2015,7 @@
    "Min": 10
  },
  {
-   "Date": "30 abril 2023",
+   "Date": "30/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1899,7 +2024,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -1908,7 +2033,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 19,
@@ -1917,7 +2042,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -1926,7 +2051,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -1935,7 +2060,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -1944,7 +2069,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -1953,7 +2078,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -1962,7 +2087,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -1971,7 +2096,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -1980,7 +2105,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -1989,7 +2114,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -1998,7 +2123,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -2007,7 +2132,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -2016,7 +2141,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -2025,7 +2150,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -2034,7 +2159,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -2043,7 +2168,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2052,7 +2177,7 @@
    "Min": 10
  },
  {
-   "Date": "27 abril 2023",
+   "Date": "27/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -2061,7 +2186,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -2070,7 +2195,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -2079,7 +2204,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -2088,7 +2213,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -2097,7 +2222,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -2106,7 +2231,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -2115,7 +2240,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -2124,7 +2249,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -2133,7 +2258,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2142,7 +2267,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -2151,7 +2276,7 @@
    "Min": 10
  },
  {
-   "Date": "26 abril 2023",
+   "Date": "26/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -2160,7 +2285,7 @@
    "Min": 10
  },
  {
-   "Date": "25 abril 2023",
+   "Date": "25/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -2169,7 +2294,7 @@
    "Min": 10
  },
  {
-   "Date": "25 abril 2023",
+   "Date": "25/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2178,7 +2303,7 @@
    "Min": 10
  },
  {
-   "Date": "25 abril 2023",
+   "Date": "25/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -2187,7 +2312,7 @@
    "Min": 10
  },
  {
-   "Date": "25 abril 2023",
+   "Date": "25/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -2196,7 +2321,7 @@
    "Min": 10
  },
  {
-   "Date": "25 abril 2023",
+   "Date": "25/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -2205,7 +2330,7 @@
    "Min": 10
  },
  {
-   "Date": "25 abril 2023",
+   "Date": "25/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -2214,7 +2339,7 @@
    "Min": 10
  },
  {
-   "Date": "25 abril 2023",
+   "Date": "25/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2223,7 +2348,7 @@
    "Min": 10
  },
  {
-   "Date": "25 abril 2023",
+   "Date": "25/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -2232,7 +2357,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -2241,7 +2366,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -2250,7 +2375,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -2259,7 +2384,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2268,7 +2393,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2277,7 +2402,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2286,7 +2411,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -2295,7 +2420,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -2304,7 +2429,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -2313,7 +2438,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -2322,7 +2447,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -2331,7 +2456,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2340,7 +2465,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -2349,7 +2474,7 @@
    "Min": 10
  },
  {
-   "Date": "24 abril 2023",
+   "Date": "24/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2358,7 +2483,7 @@
    "Min": 10
  },
  {
-   "Date": "22 abril 2023",
+   "Date": "22/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -2367,7 +2492,7 @@
    "Min": 10
  },
  {
-   "Date": "22 abril 2023",
+   "Date": "22/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2376,7 +2501,7 @@
    "Min": 10
  },
  {
-   "Date": "22 abril 2023",
+   "Date": "22/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -2385,7 +2510,7 @@
    "Min": 10
  },
  {
-   "Date": "21 abril 2023",
+   "Date": "21/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -2394,7 +2519,7 @@
    "Min": 10
  },
  {
-   "Date": "21 abril 2023",
+   "Date": "21/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -2403,7 +2528,7 @@
    "Min": 10
  },
  {
-   "Date": "21 abril 2023",
+   "Date": "21/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 18,
@@ -2412,7 +2537,7 @@
    "Min": 10
  },
  {
-   "Date": "21 abril 2023",
+   "Date": "21/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -2421,7 +2546,7 @@
    "Min": 10
  },
  {
-   "Date": "21 abril 2023",
+   "Date": "21/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -2430,7 +2555,7 @@
    "Min": 10
  },
  {
-   "Date": "21 abril 2023",
+   "Date": "21/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -2439,7 +2564,7 @@
    "Min": 10
  },
  {
-   "Date": "21 abril 2023",
+   "Date": "21/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -2448,7 +2573,7 @@
    "Min": 10
  },
  {
-   "Date": "20 abril 2023",
+   "Date": "20/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -2457,7 +2582,7 @@
    "Min": 10
  },
  {
-   "Date": "20 abril 2023",
+   "Date": "20/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -2466,7 +2591,7 @@
    "Min": 10
  },
  {
-   "Date": "20 abril 2023",
+   "Date": "20/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 6,
@@ -2475,7 +2600,7 @@
    "Min": 10
  },
  {
-   "Date": "19 abril 2023",
+   "Date": "19/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2484,7 +2609,7 @@
    "Min": 10
  },
  {
-   "Date": "19 abril 2023",
+   "Date": "19/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -2493,7 +2618,7 @@
    "Min": 10
  },
  {
-   "Date": "19 abril 2023",
+   "Date": "19/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2502,7 +2627,7 @@
    "Min": 10
  },
  {
-   "Date": "19 abril 2023",
+   "Date": "19/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2511,7 +2636,7 @@
    "Min": 10
  },
  {
-   "Date": "19 abril 2023",
+   "Date": "19/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -2520,7 +2645,7 @@
    "Min": 10
  },
  {
-   "Date": "19 abril 2023",
+   "Date": "19/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2529,7 +2654,7 @@
    "Min": 10
  },
  {
-   "Date": "19 abril 2023",
+   "Date": "19/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -2538,7 +2663,7 @@
    "Min": 10
  },
  {
-   "Date": "18 abril 2023",
+   "Date": "18/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2547,7 +2672,7 @@
    "Min": 10
  },
  {
-   "Date": "18 abril 2023",
+   "Date": "18/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -2556,7 +2681,7 @@
    "Min": 10
  },
  {
-   "Date": "18 abril 2023",
+   "Date": "18/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -2565,7 +2690,7 @@
    "Min": 10
  },
  {
-   "Date": "18 abril 2023",
+   "Date": "18/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2574,7 +2699,7 @@
    "Min": 10
  },
  {
-   "Date": "18 abril 2023",
+   "Date": "18/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2583,7 +2708,7 @@
    "Min": 10
  },
  {
-   "Date": "18 abril 2023",
+   "Date": "18/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2592,7 +2717,7 @@
    "Min": 10
  },
  {
-   "Date": "18 abril 2023",
+   "Date": "18/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -2601,7 +2726,7 @@
    "Min": 10
  },
  {
-   "Date": "18 abril 2023",
+   "Date": "18/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -2610,7 +2735,7 @@
    "Min": 10
  },
  {
-   "Date": "18 abril 2023",
+   "Date": "18/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -2619,7 +2744,7 @@
    "Min": 10
  },
  {
-   "Date": "18 abril 2023",
+   "Date": "18/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2628,7 +2753,7 @@
    "Min": 10
  },
  {
-   "Date": "17 abril 2023",
+   "Date": "17/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -2637,7 +2762,7 @@
    "Min": 10
  },
  {
-   "Date": "17 abril 2023",
+   "Date": "17/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -2646,7 +2771,7 @@
    "Min": 10
  },
  {
-   "Date": "17 abril 2023",
+   "Date": "17/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -2655,7 +2780,7 @@
    "Min": 10
  },
  {
-   "Date": "17 abril 2023",
+   "Date": "17/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -2664,7 +2789,7 @@
    "Min": 10
  },
  {
-   "Date": "17 abril 2023",
+   "Date": "17/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -2673,7 +2798,7 @@
    "Min": 10
  },
  {
-   "Date": "17 abril 2023",
+   "Date": "17/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -2682,7 +2807,7 @@
    "Min": 10
  },
  {
-   "Date": "17 abril 2023",
+   "Date": "17/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 6,
@@ -2691,7 +2816,7 @@
    "Min": 10
  },
  {
-   "Date": "17 abril 2023",
+   "Date": "17/04/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2700,7 +2825,7 @@
    "Min": 10
  },
  {
-   "Date": "17 abril 2023",
+   "Date": "17/04/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 16,
@@ -2709,7 +2834,7 @@
    "Min": 10
  },
  {
-   "Date": "15 marzo 2023",
+   "Date": "15/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2718,7 +2843,7 @@
    "Min": 10
  },
  {
-   "Date": "15 marzo 2023",
+   "Date": "15/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 17,
@@ -2727,7 +2852,7 @@
    "Min": 10
  },
  {
-   "Date": "15 marzo 2023",
+   "Date": "15/03/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -2736,7 +2861,7 @@
    "Min": 10
  },
  {
-   "Date": "15 marzo 2023",
+   "Date": "15/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -2745,7 +2870,7 @@
    "Min": 10
  },
  {
-   "Date": "15 marzo 2023",
+   "Date": "15/03/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -2754,7 +2879,7 @@
    "Min": 10
  },
  {
-   "Date": "14 marzo 2023",
+   "Date": "14/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -2763,7 +2888,7 @@
    "Min": 10
  },
  {
-   "Date": "14 marzo 2023",
+   "Date": "14/03/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -2772,7 +2897,7 @@
    "Min": 10
  },
  {
-   "Date": "14 marzo 2023",
+   "Date": "14/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -2781,7 +2906,7 @@
    "Min": 10
  },
  {
-   "Date": "14 marzo 2023",
+   "Date": "14/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -2790,7 +2915,7 @@
    "Min": 10
  },
  {
-   "Date": "14 marzo 2023",
+   "Date": "14/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -2799,7 +2924,7 @@
    "Min": 10
  },
  {
-   "Date": "14 marzo 2023",
+   "Date": "14/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2808,7 +2933,7 @@
    "Min": 10
  },
  {
-   "Date": "14 marzo 2023",
+   "Date": "14/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -2817,7 +2942,7 @@
    "Min": 10
  },
  {
-   "Date": "14 marzo 2023",
+   "Date": "14/03/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -2826,7 +2951,7 @@
    "Min": 10
  },
  {
-   "Date": "14 marzo 2023",
+   "Date": "14/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -2835,7 +2960,7 @@
    "Min": 10
  },
  {
-   "Date": "13 marzo 2023",
+   "Date": "13/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2844,7 +2969,7 @@
    "Min": 10
  },
  {
-   "Date": "13 marzo 2023",
+   "Date": "13/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -2853,7 +2978,7 @@
    "Min": 10
  },
  {
-   "Date": "12 marzo 2023",
+   "Date": "12/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -2862,7 +2987,7 @@
    "Min": 10
  },
  {
-   "Date": "12 marzo 2023",
+   "Date": "12/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -2871,7 +2996,7 @@
    "Min": 10
  },
  {
-   "Date": "12 marzo 2023",
+   "Date": "12/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -2880,7 +3005,7 @@
    "Min": 10
  },
  {
-   "Date": "12 marzo 2023",
+   "Date": "12/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2889,7 +3014,7 @@
    "Min": 10
  },
  {
-   "Date": "12 marzo 2023",
+   "Date": "12/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2898,7 +3023,7 @@
    "Min": 10
  },
  {
-   "Date": "12 marzo 2023",
+   "Date": "12/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -2907,7 +3032,7 @@
    "Min": 10
  },
  {
-   "Date": "12 marzo 2023",
+   "Date": "12/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 18,
@@ -2916,7 +3041,7 @@
    "Min": 10
  },
  {
-   "Date": "12 marzo 2023",
+   "Date": "12/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -2925,7 +3050,7 @@
    "Min": 10
  },
  {
-   "Date": "12 marzo 2023",
+   "Date": "12/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -2934,7 +3059,7 @@
    "Min": 10
  },
  {
-   "Date": "12 marzo 2023",
+   "Date": "12/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2943,7 +3068,7 @@
    "Min": 10
  },
  {
-   "Date": "11 marzo 2023",
+   "Date": "11/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -2952,7 +3077,7 @@
    "Min": 10
  },
  {
-   "Date": "11 marzo 2023",
+   "Date": "11/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -2961,7 +3086,7 @@
    "Min": 10
  },
  {
-   "Date": "10 marzo 2023",
+   "Date": "10/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -2970,7 +3095,7 @@
    "Min": 10
  },
  {
-   "Date": "10 marzo 2023",
+   "Date": "10/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -2979,7 +3104,7 @@
    "Min": 10
  },
  {
-   "Date": "10 marzo 2023",
+   "Date": "10/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -2988,7 +3113,7 @@
    "Min": 10
  },
  {
-   "Date": "10 marzo 2023",
+   "Date": "10/03/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -2997,7 +3122,7 @@
    "Min": 10
  },
  {
-   "Date": "12 febrero 2023",
+   "Date": "12/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3006,7 +3131,7 @@
    "Min": 10
  },
  {
-   "Date": "12 febrero 2023",
+   "Date": "12/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -3015,7 +3140,7 @@
    "Min": 10
  },
  {
-   "Date": "12 febrero 2023",
+   "Date": "12/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -3024,7 +3149,7 @@
    "Min": 10
  },
  {
-   "Date": "12 febrero 2023",
+   "Date": "12/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 17,
@@ -3033,7 +3158,7 @@
    "Min": 10
  },
  {
-   "Date": "12 febrero 2023",
+   "Date": "12/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 17,
@@ -3042,7 +3167,7 @@
    "Min": 10
  },
  {
-   "Date": "12 febrero 2023",
+   "Date": "12/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -3051,7 +3176,7 @@
    "Min": 10
  },
  {
-   "Date": "12 febrero 2023",
+   "Date": "12/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 19,
@@ -3060,7 +3185,7 @@
    "Min": 10
  },
  {
-   "Date": "11 febrero 2023",
+   "Date": "11/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -3069,7 +3194,7 @@
    "Min": 10
  },
  {
-   "Date": "11 febrero 2023",
+   "Date": "11/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -3078,7 +3203,7 @@
    "Min": 10
  },
  {
-   "Date": "11 febrero 2023",
+   "Date": "11/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -3087,7 +3212,7 @@
    "Min": 10
  },
  {
-   "Date": "10 febrero 2023",
+   "Date": "10/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -3096,7 +3221,7 @@
    "Min": 10
  },
  {
-   "Date": "10 febrero 2023",
+   "Date": "10/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -3105,7 +3230,7 @@
    "Min": 10
  },
  {
-   "Date": "10 febrero 2023",
+   "Date": "10/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -3114,7 +3239,7 @@
    "Min": 10
  },
  {
-   "Date": "10 febrero 2023",
+   "Date": "10/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -3123,7 +3248,7 @@
    "Min": 10
  },
  {
-   "Date": "10 febrero 2023",
+   "Date": "10/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -3132,7 +3257,7 @@
    "Min": 10
  },
  {
-   "Date": "10 febrero 2023",
+   "Date": "10/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -3141,7 +3266,7 @@
    "Min": 10
  },
  {
-   "Date": "9 febrero 2023",
+   "Date": "9/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -3150,7 +3275,7 @@
    "Min": 10
  },
  {
-   "Date": "9 febrero 2023",
+   "Date": "9/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -3159,7 +3284,7 @@
    "Min": 10
  },
  {
-   "Date": "9 febrero 2023",
+   "Date": "9/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3168,7 +3293,7 @@
    "Min": 10
  },
  {
-   "Date": "9 febrero 2023",
+   "Date": "9/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -3177,7 +3302,7 @@
    "Min": 10
  },
  {
-   "Date": "9 febrero 2023",
+   "Date": "9/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -3186,7 +3311,7 @@
    "Min": 10
  },
  {
-   "Date": "9 febrero 2023",
+   "Date": "9/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -3195,7 +3320,7 @@
    "Min": 10
  },
  {
-   "Date": "9 febrero 2023",
+   "Date": "9/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -3204,7 +3329,7 @@
    "Min": 10
  },
  {
-   "Date": "9 febrero 2023",
+   "Date": "9/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3213,7 +3338,7 @@
    "Min": 10
  },
  {
-   "Date": "9 febrero 2023",
+   "Date": "9/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3222,7 +3347,7 @@
    "Min": 10
  },
  {
-   "Date": "8 febrero 2023",
+   "Date": "8/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -3231,7 +3356,7 @@
    "Min": 10
  },
  {
-   "Date": "8 febrero 2023",
+   "Date": "8/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -3240,7 +3365,7 @@
    "Min": 10
  },
  {
-   "Date": "8 febrero 2023",
+   "Date": "8/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3249,7 +3374,7 @@
    "Min": 10
  },
  {
-   "Date": "8 febrero 2023",
+   "Date": "8/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -3258,7 +3383,7 @@
    "Min": 10
  },
  {
-   "Date": "8 febrero 2023",
+   "Date": "8/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3267,7 +3392,7 @@
    "Min": 10
  },
  {
-   "Date": "8 febrero 2023",
+   "Date": "8/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3276,7 +3401,7 @@
    "Min": 10
  },
  {
-   "Date": "8 febrero 2023",
+   "Date": "8/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -3285,7 +3410,7 @@
    "Min": 10
  },
  {
-   "Date": "8 febrero 2023",
+   "Date": "8/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3294,7 +3419,7 @@
    "Min": 10
  },
  {
-   "Date": "7 febrero 2023",
+   "Date": "7/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -3303,7 +3428,7 @@
    "Min": 10
  },
  {
-   "Date": "7 febrero 2023",
+   "Date": "7/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3312,7 +3437,7 @@
    "Min": 10
  },
  {
-   "Date": "7 febrero 2023",
+   "Date": "7/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -3321,7 +3446,7 @@
    "Min": 10
  },
  {
-   "Date": "6 febrero 2023",
+   "Date": "6/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3330,7 +3455,7 @@
    "Min": 10
  },
  {
-   "Date": "6 febrero 2023",
+   "Date": "6/02/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -3339,7 +3464,7 @@
    "Min": 10
  },
  {
-   "Date": "6 febrero 2023",
+   "Date": "6/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -3348,7 +3473,7 @@
    "Min": 10
  },
  {
-   "Date": "6 febrero 2023",
+   "Date": "6/02/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -3357,7 +3482,7 @@
    "Min": 10
  },
  {
-   "Date": "26 enero 2023",
+   "Date": "26/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3366,7 +3491,7 @@
    "Min": 10
  },
  {
-   "Date": "26 enero 2023",
+   "Date": "26/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -3375,7 +3500,7 @@
    "Min": 10
  },
  {
-   "Date": "26 enero 2023",
+   "Date": "26/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -3384,7 +3509,7 @@
    "Min": 10
  },
  {
-   "Date": "25 enero 2023",
+   "Date": "25/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -3393,7 +3518,7 @@
    "Min": 10
  },
  {
-   "Date": "25 enero 2023",
+   "Date": "25/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3402,7 +3527,7 @@
    "Min": 10
  },
  {
-   "Date": "25 enero 2023",
+   "Date": "25/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -3411,7 +3536,7 @@
    "Min": 10
  },
  {
-   "Date": "25 enero 2023",
+   "Date": "25/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -3420,7 +3545,7 @@
    "Min": 10
  },
  {
-   "Date": "25 enero 2023",
+   "Date": "25/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -3429,7 +3554,7 @@
    "Min": 10
  },
  {
-   "Date": "25 enero 2023",
+   "Date": "25/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -3438,7 +3563,7 @@
    "Min": 10
  },
  {
-   "Date": "25 enero 2023",
+   "Date": "25/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3447,7 +3572,7 @@
    "Min": 10
  },
  {
-   "Date": "24 enero 2023",
+   "Date": "24/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -3456,7 +3581,7 @@
    "Min": 10
  },
  {
-   "Date": "24 enero 2023",
+   "Date": "24/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3465,7 +3590,7 @@
    "Min": 10
  },
  {
-   "Date": "23 enero 2023",
+   "Date": "23/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -3474,7 +3599,7 @@
    "Min": 10
  },
  {
-   "Date": "23 enero 2023",
+   "Date": "23/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -3483,7 +3608,7 @@
    "Min": 10
  },
  {
-   "Date": "23 enero 2023",
+   "Date": "23/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3492,7 +3617,7 @@
    "Min": 10
  },
  {
-   "Date": "23 enero 2023",
+   "Date": "23/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -3501,7 +3626,7 @@
    "Min": 10
  },
  {
-   "Date": "23 enero 2023",
+   "Date": "23/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -3510,7 +3635,7 @@
    "Min": 10
  },
  {
-   "Date": "23 enero 2023",
+   "Date": "23/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -3519,7 +3644,7 @@
    "Min": 10
  },
  {
-   "Date": "22 enero 2023",
+   "Date": "22/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -3528,7 +3653,7 @@
    "Min": 10
  },
  {
-   "Date": "22 enero 2023",
+   "Date": "22/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -3537,7 +3662,7 @@
    "Min": 10
  },
  {
-   "Date": "22 enero 2023",
+   "Date": "22/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -3546,7 +3671,7 @@
    "Min": 10
  },
  {
-   "Date": "22 enero 2023",
+   "Date": "22/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3555,7 +3680,7 @@
    "Min": 10
  },
  {
-   "Date": "22 enero 2023",
+   "Date": "22/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -3564,7 +3689,7 @@
    "Min": 10
  },
  {
-   "Date": "22 enero 2023",
+   "Date": "22/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -3573,7 +3698,7 @@
    "Min": 10
  },
  {
-   "Date": "22 enero 2023",
+   "Date": "22/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -3582,7 +3707,7 @@
    "Min": 10
  },
  {
-   "Date": "20 enero 2023",
+   "Date": "20/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -3591,7 +3716,7 @@
    "Min": 10
  },
  {
-   "Date": "20 enero 2023",
+   "Date": "20/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -3600,7 +3725,7 @@
    "Min": 10
  },
  {
-   "Date": "20 enero 2023",
+   "Date": "20/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -3609,7 +3734,7 @@
    "Min": 10
  },
  {
-   "Date": "20 enero 2023",
+   "Date": "20/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 17,
@@ -3618,7 +3743,7 @@
    "Min": 10
  },
  {
-   "Date": "19 enero 2023",
+   "Date": "19/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -3627,7 +3752,7 @@
    "Min": 10
  },
  {
-   "Date": "19 enero 2023",
+   "Date": "19/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3636,7 +3761,7 @@
    "Min": 10
  },
  {
-   "Date": "19 enero 2023",
+   "Date": "19/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3645,7 +3770,7 @@
    "Min": 10
  },
  {
-   "Date": "19 enero 2023",
+   "Date": "19/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -3654,7 +3779,7 @@
    "Min": 10
  },
  {
-   "Date": "19 enero 2023",
+   "Date": "19/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -3663,7 +3788,7 @@
    "Min": 10
  },
  {
-   "Date": "18 enero 2023",
+   "Date": "18/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -3672,7 +3797,7 @@
    "Min": 10
  },
  {
-   "Date": "18 enero 2023",
+   "Date": "18/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3681,7 +3806,7 @@
    "Min": 10
  },
  {
-   "Date": "18 enero 2023",
+   "Date": "18/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -3690,7 +3815,7 @@
    "Min": 10
  },
  {
-   "Date": "18 enero 2023",
+   "Date": "18/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3699,7 +3824,7 @@
    "Min": 10
  },
  {
-   "Date": "18 enero 2023",
+   "Date": "18/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -3708,7 +3833,7 @@
    "Min": 10
  },
  {
-   "Date": "18 enero 2023",
+   "Date": "18/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -3717,7 +3842,7 @@
    "Min": 10
  },
  {
-   "Date": "18 enero 2023",
+   "Date": "18/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -3726,7 +3851,7 @@
    "Min": 10
  },
  {
-   "Date": "17 enero 2023",
+   "Date": "17/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -3735,7 +3860,7 @@
    "Min": 10
  },
  {
-   "Date": "16 enero 2023",
+   "Date": "16/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -3744,7 +3869,7 @@
    "Min": 10
  },
  {
-   "Date": "16 enero 2023",
+   "Date": "16/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3753,7 +3878,7 @@
    "Min": 10
  },
  {
-   "Date": "16 enero 2023",
+   "Date": "16/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3762,7 +3887,7 @@
    "Min": 10
  },
  {
-   "Date": "16 enero 2023",
+   "Date": "16/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3771,7 +3896,7 @@
    "Min": 10
  },
  {
-   "Date": "13 enero 2023",
+   "Date": "13/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3780,7 +3905,7 @@
    "Min": 10
  },
  {
-   "Date": "13 enero 2023",
+   "Date": "13/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3789,7 +3914,7 @@
    "Min": 10
  },
  {
-   "Date": "13 enero 2023",
+   "Date": "13/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -3798,7 +3923,7 @@
    "Min": 10
  },
  {
-   "Date": "13 enero 2023",
+   "Date": "13/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -3807,7 +3932,7 @@
    "Min": 10
  },
  {
-   "Date": "13 enero 2023",
+   "Date": "13/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3816,7 +3941,7 @@
    "Min": 10
  },
  {
-   "Date": "12 enero 2023",
+   "Date": "12/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3825,7 +3950,7 @@
    "Min": 10
  },
  {
-   "Date": "12 enero 2023",
+   "Date": "12/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -3834,7 +3959,7 @@
    "Min": 10
  },
  {
-   "Date": "11 enero 2023",
+   "Date": "11/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -3843,7 +3968,7 @@
    "Min": 10
  },
  {
-   "Date": "11 enero 2023",
+   "Date": "11/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3852,7 +3977,7 @@
    "Min": 10
  },
  {
-   "Date": "11 enero 2023",
+   "Date": "11/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -3861,7 +3986,7 @@
    "Min": 10
  },
  {
-   "Date": "11 enero 2023",
+   "Date": "11/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -3870,7 +3995,7 @@
    "Min": 10
  },
  {
-   "Date": "11 enero 2023",
+   "Date": "11/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -3879,7 +4004,7 @@
    "Min": 10
  },
  {
-   "Date": "10 enero 2023",
+   "Date": "10/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3888,7 +4013,7 @@
    "Min": 10
  },
  {
-   "Date": "10 enero 2023",
+   "Date": "10/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3897,7 +4022,7 @@
    "Min": 10
  },
  {
-   "Date": "9 enero 2023",
+   "Date": "9/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -3906,7 +4031,7 @@
    "Min": 10
  },
  {
-   "Date": "9 enero 2023",
+   "Date": "9/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3915,7 +4040,7 @@
    "Min": 10
  },
  {
-   "Date": "8 enero 2023",
+   "Date": "8/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -3924,7 +4049,7 @@
    "Min": 10
  },
  {
-   "Date": "7 enero 2023",
+   "Date": "7/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -3933,7 +4058,7 @@
    "Min": 10
  },
  {
-   "Date": "7 enero 2023",
+   "Date": "7/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3942,7 +4067,7 @@
    "Min": 10
  },
  {
-   "Date": "7 enero 2023",
+   "Date": "7/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 19,
@@ -3951,7 +4076,7 @@
    "Min": 10
  },
  {
-   "Date": "7 enero 2023",
+   "Date": "7/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -3960,7 +4085,7 @@
    "Min": 10
  },
  {
-   "Date": "7 enero 2023",
+   "Date": "7/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -3969,7 +4094,7 @@
    "Min": 10
  },
  {
-   "Date": "7 enero 2023",
+   "Date": "7/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -3978,7 +4103,7 @@
    "Min": 10
  },
  {
-   "Date": "7 enero 2023",
+   "Date": "7/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -3987,7 +4112,7 @@
    "Min": 10
  },
  {
-   "Date": "6 enero 2023",
+   "Date": "6/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -3996,7 +4121,7 @@
    "Min": 10
  },
  {
-   "Date": "6 enero 2023",
+   "Date": "6/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4005,7 +4130,7 @@
    "Min": 10
  },
  {
-   "Date": "6 enero 2023",
+   "Date": "6/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -4014,7 +4139,7 @@
    "Min": 10
  },
  {
-   "Date": "6 enero 2023",
+   "Date": "6/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -4023,7 +4148,7 @@
    "Min": 10
  },
  {
-   "Date": "6 enero 2023",
+   "Date": "6/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -4032,7 +4157,7 @@
    "Min": 10
  },
  {
-   "Date": "6 enero 2023",
+   "Date": "6/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -4041,7 +4166,7 @@
    "Min": 10
  },
  {
-   "Date": "6 enero 2023",
+   "Date": "6/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -4050,7 +4175,7 @@
    "Min": 10
  },
  {
-   "Date": "5 enero 2023",
+   "Date": "5/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -4059,7 +4184,7 @@
    "Min": 10
  },
  {
-   "Date": "5 enero 2023",
+   "Date": "5/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -4068,7 +4193,7 @@
    "Min": 10
  },
  {
-   "Date": "5 enero 2023",
+   "Date": "5/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -4077,7 +4202,7 @@
    "Min": 10
  },
  {
-   "Date": "5 enero 2023",
+   "Date": "5/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -4086,7 +4211,7 @@
    "Min": 10
  },
  {
-   "Date": "5 enero 2023",
+   "Date": "5/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -4095,7 +4220,7 @@
    "Min": 10
  },
  {
-   "Date": "5 enero 2023",
+   "Date": "5/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -4104,7 +4229,7 @@
    "Min": 10
  },
  {
-   "Date": "5 enero 2023",
+   "Date": "5/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -4113,7 +4238,7 @@
    "Min": 10
  },
  {
-   "Date": "5 enero 2023",
+   "Date": "5/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -4122,7 +4247,7 @@
    "Min": 10
  },
  {
-   "Date": "4 enero 2023",
+   "Date": "4/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -4131,7 +4256,7 @@
    "Min": 10
  },
  {
-   "Date": "4 enero 2023",
+   "Date": "4/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -4140,7 +4265,7 @@
    "Min": 10
  },
  {
-   "Date": "4 enero 2023",
+   "Date": "4/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -4149,7 +4274,7 @@
    "Min": 10
  },
  {
-   "Date": "4 enero 2023",
+   "Date": "4/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -4158,7 +4283,7 @@
    "Min": 10
  },
  {
-   "Date": "4 enero 2023",
+   "Date": "4/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -4167,7 +4292,7 @@
    "Min": 10
  },
  {
-   "Date": "4 enero 2023",
+   "Date": "4/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -4176,7 +4301,7 @@
    "Min": 10
  },
  {
-   "Date": "4 enero 2023",
+   "Date": "4/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4185,7 +4310,7 @@
    "Min": 10
  },
  {
-   "Date": "4 enero 2023",
+   "Date": "4/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 3,
@@ -4194,7 +4319,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 5,
@@ -4203,7 +4328,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -4212,7 +4337,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -4221,7 +4346,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 6,
@@ -4230,7 +4355,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -4239,7 +4364,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -4248,7 +4373,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -4257,7 +4382,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4266,7 +4391,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -4275,7 +4400,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4284,7 +4409,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4293,7 +4418,7 @@
    "Min": 10
  },
  {
-   "Date": "3 enero 2023",
+   "Date": "3/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -4302,7 +4427,7 @@
    "Min": 10
  },
  {
-   "Date": "2 enero 2023",
+   "Date": "2/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -4311,7 +4436,7 @@
    "Min": 10
  },
  {
-   "Date": "2 enero 2023",
+   "Date": "2/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -4320,7 +4445,7 @@
    "Min": 10
  },
  {
-   "Date": "2 enero 2023",
+   "Date": "2/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -4329,7 +4454,7 @@
    "Min": 10
  },
  {
-   "Date": "2 enero 2023",
+   "Date": "2/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -4338,7 +4463,7 @@
    "Min": 10
  },
  {
-   "Date": "2 enero 2023",
+   "Date": "2/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -4347,7 +4472,7 @@
    "Min": 10
  },
  {
-   "Date": "2 enero 2023",
+   "Date": "2/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -4356,7 +4481,7 @@
    "Min": 10
  },
  {
-   "Date": "2 enero 2023",
+   "Date": "2/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 16,
@@ -4365,7 +4490,7 @@
    "Min": 10
  },
  {
-   "Date": "2 enero 2023",
+   "Date": "2/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -4374,7 +4499,7 @@
    "Min": 10
  },
  {
-   "Date": "2 enero 2023",
+   "Date": "2/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4383,7 +4508,7 @@
    "Min": 10
  },
  {
-   "Date": "2 enero 2023",
+   "Date": "2/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -4392,7 +4517,7 @@
    "Min": 10
  },
  {
-   "Date": "1 enero 2023",
+   "Date": "1/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4401,7 +4526,7 @@
    "Min": 10
  },
  {
-   "Date": "1 enero 2023",
+   "Date": "1/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 17,
@@ -4410,7 +4535,7 @@
    "Min": 10
  },
  {
-   "Date": "1 enero 2023",
+   "Date": "1/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -4419,7 +4544,7 @@
    "Min": 10
  },
  {
-   "Date": "1 enero 2023",
+   "Date": "1/01/2023",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -4428,7 +4553,7 @@
    "Min": 10
  },
  {
-   "Date": "1 enero 2023",
+   "Date": "1/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -4437,7 +4562,7 @@
    "Min": 10
  },
  {
-   "Date": "1 enero 2023",
+   "Date": "1/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -4446,7 +4571,7 @@
    "Min": 10
  },
  {
-   "Date": "1 enero 2023",
+   "Date": "1/01/2023",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -4455,7 +4580,7 @@
    "Min": 10
  },
  {
-   "Date": "30 diciembre 2022",
+   "Date": "30/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -4464,7 +4589,7 @@
    "Min": 10
  },
  {
-   "Date": "30 diciembre 2022",
+   "Date": "30/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 18,
@@ -4473,7 +4598,7 @@
    "Min": 10
  },
  {
-   "Date": "30 diciembre 2022",
+   "Date": "30/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -4482,7 +4607,7 @@
    "Min": 10
  },
  {
-   "Date": "30 diciembre 2022",
+   "Date": "30/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4491,7 +4616,7 @@
    "Min": 10
  },
  {
-   "Date": "30 diciembre 2022",
+   "Date": "30/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4500,7 +4625,7 @@
    "Min": 10
  },
  {
-   "Date": "30 diciembre 2022",
+   "Date": "30/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -4509,7 +4634,7 @@
    "Min": 10
  },
  {
-   "Date": "30 diciembre 2022",
+   "Date": "30/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -4518,7 +4643,7 @@
    "Min": 10
  },
  {
-   "Date": "30 diciembre 2022",
+   "Date": "30/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -4527,7 +4652,7 @@
    "Min": 10
  },
  {
-   "Date": "30 diciembre 2022",
+   "Date": "30/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -4536,7 +4661,7 @@
    "Min": 10
  },
  {
-   "Date": "30 diciembre 2022",
+   "Date": "30/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4545,7 +4670,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4554,7 +4679,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -4563,7 +4688,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -4572,7 +4697,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -4581,7 +4706,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -4590,7 +4715,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -4599,7 +4724,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -4608,7 +4733,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -4617,7 +4742,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -4626,7 +4751,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -4635,7 +4760,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 17,
@@ -4644,7 +4769,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -4653,7 +4778,7 @@
    "Min": 10
  },
  {
-   "Date": "28 diciembre 2022",
+   "Date": "28/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -4662,7 +4787,7 @@
    "Min": 10
  },
  {
-   "Date": "27 diciembre 2022",
+   "Date": "27/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -4671,7 +4796,7 @@
    "Min": 10
  },
  {
-   "Date": "27 diciembre 2022",
+   "Date": "27/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -4680,7 +4805,7 @@
    "Min": 10
  },
  {
-   "Date": "27 diciembre 2022",
+   "Date": "27/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -4689,7 +4814,7 @@
    "Min": 10
  },
  {
-   "Date": "27 diciembre 2022",
+   "Date": "27/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4698,7 +4823,7 @@
    "Min": 10
  },
  {
-   "Date": "26 diciembre 2022",
+   "Date": "26/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -4707,7 +4832,7 @@
    "Min": 10
  },
  {
-   "Date": "26 diciembre 2022",
+   "Date": "26/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -4716,7 +4841,7 @@
    "Min": 10
  },
  {
-   "Date": "26 diciembre 2022",
+   "Date": "26/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -4725,7 +4850,7 @@
    "Min": 10
  },
  {
-   "Date": "26 diciembre 2022",
+   "Date": "26/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -4734,7 +4859,7 @@
    "Min": 10
  },
  {
-   "Date": "26 diciembre 2022",
+   "Date": "26/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -4743,7 +4868,7 @@
    "Min": 10
  },
  {
-   "Date": "26 diciembre 2022",
+   "Date": "26/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -4752,7 +4877,7 @@
    "Min": 10
  },
  {
-   "Date": "26 diciembre 2022",
+   "Date": "26/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -4761,7 +4886,7 @@
    "Min": 10
  },
  {
-   "Date": "26 diciembre 2022",
+   "Date": "26/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -4770,7 +4895,7 @@
    "Min": 10
  },
  {
-   "Date": "26 diciembre 2022",
+   "Date": "26/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -4779,7 +4904,7 @@
    "Min": 10
  },
  {
-   "Date": "26 diciembre 2022",
+   "Date": "26/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -4788,7 +4913,7 @@
    "Min": 10
  },
  {
-   "Date": "24 diciembre 2022",
+   "Date": "24/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -4797,7 +4922,7 @@
    "Min": 10
  },
  {
-   "Date": "23 diciembre 2022",
+   "Date": "23/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -4806,7 +4931,7 @@
    "Min": 10
  },
  {
-   "Date": "23 diciembre 2022",
+   "Date": "23/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -4815,7 +4940,7 @@
    "Min": 10
  },
  {
-   "Date": "23 diciembre 2022",
+   "Date": "23/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -4824,7 +4949,7 @@
    "Min": 10
  },
  {
-   "Date": "23 diciembre 2022",
+   "Date": "23/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -4833,7 +4958,7 @@
    "Min": 10
  },
  {
-   "Date": "23 diciembre 2022",
+   "Date": "23/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -4842,7 +4967,7 @@
    "Min": 10
  },
  {
-   "Date": "23 diciembre 2022",
+   "Date": "23/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4851,7 +4976,7 @@
    "Min": 10
  },
  {
-   "Date": "23 diciembre 2022",
+   "Date": "23/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -4860,7 +4985,7 @@
    "Min": 10
  },
  {
-   "Date": "23 diciembre 2022",
+   "Date": "23/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -4869,7 +4994,7 @@
    "Min": 10
  },
  {
-   "Date": "23 diciembre 2022",
+   "Date": "23/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 17,
@@ -4878,7 +5003,7 @@
    "Min": 10
  },
  {
-   "Date": "22 diciembre 2022",
+   "Date": "22/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -4887,7 +5012,7 @@
    "Min": 10
  },
  {
-   "Date": "22 diciembre 2022",
+   "Date": "22/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -4896,7 +5021,7 @@
    "Min": 10
  },
  {
-   "Date": "22 diciembre 2022",
+   "Date": "22/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 5,
@@ -4905,7 +5030,7 @@
    "Min": 10
  },
  {
-   "Date": "22 diciembre 2022",
+   "Date": "22/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 5,
@@ -4914,7 +5039,7 @@
    "Min": 10
  },
  {
-   "Date": "22 diciembre 2022",
+   "Date": "22/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -4923,7 +5048,7 @@
    "Min": 10
  },
  {
-   "Date": "22 diciembre 2022",
+   "Date": "22/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -4932,7 +5057,7 @@
    "Min": 10
  },
  {
-   "Date": "22 diciembre 2022",
+   "Date": "22/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -4941,7 +5066,7 @@
    "Min": 10
  },
  {
-   "Date": "21 diciembre 2022",
+   "Date": "21/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -4950,7 +5075,7 @@
    "Min": 10
  },
  {
-   "Date": "21 diciembre 2022",
+   "Date": "21/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -4959,7 +5084,7 @@
    "Min": 10
  },
  {
-   "Date": "21 diciembre 2022",
+   "Date": "21/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -4968,7 +5093,7 @@
    "Min": 10
  },
  {
-   "Date": "21 diciembre 2022",
+   "Date": "21/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -4977,7 +5102,7 @@
    "Min": 10
  },
  {
-   "Date": "21 diciembre 2022",
+   "Date": "21/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -4986,7 +5111,7 @@
    "Min": 10
  },
  {
-   "Date": "21 diciembre 2022",
+   "Date": "21/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -4995,7 +5120,7 @@
    "Min": 10
  },
  {
-   "Date": "21 diciembre 2022",
+   "Date": "21/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -5004,7 +5129,7 @@
    "Min": 10
  },
  {
-   "Date": "21 diciembre 2022",
+   "Date": "21/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5013,7 +5138,7 @@
    "Min": 10
  },
  {
-   "Date": "21 diciembre 2022",
+   "Date": "21/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5022,7 +5147,7 @@
    "Min": 10
  },
  {
-   "Date": "21 diciembre 2022",
+   "Date": "21/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5031,7 +5156,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5040,7 +5165,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -5049,7 +5174,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -5058,7 +5183,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -5067,7 +5192,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5076,7 +5201,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5085,7 +5210,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5094,7 +5219,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5103,7 +5228,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -5112,7 +5237,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -5121,7 +5246,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -5130,7 +5255,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -5139,7 +5264,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -5148,7 +5273,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5157,7 +5282,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5166,7 +5291,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -5175,7 +5300,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -5184,7 +5309,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 6,
@@ -5193,7 +5318,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5202,7 +5327,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -5211,7 +5336,7 @@
    "Min": 10
  },
  {
-   "Date": "20 diciembre 2022",
+   "Date": "20/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5220,7 +5345,7 @@
    "Min": 10
  },
  {
-   "Date": "19 diciembre 2022",
+   "Date": "19/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5229,7 +5354,7 @@
    "Min": 10
  },
  {
-   "Date": "19 diciembre 2022",
+   "Date": "19/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -5238,7 +5363,7 @@
    "Min": 10
  },
  {
-   "Date": "19 diciembre 2022",
+   "Date": "19/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -5247,7 +5372,7 @@
    "Min": 10
  },
  {
-   "Date": "19 diciembre 2022",
+   "Date": "19/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -5256,7 +5381,7 @@
    "Min": 10
  },
  {
-   "Date": "19 diciembre 2022",
+   "Date": "19/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5265,7 +5390,7 @@
    "Min": 10
  },
  {
-   "Date": "19 diciembre 2022",
+   "Date": "19/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -5274,7 +5399,7 @@
    "Min": 10
  },
  {
-   "Date": "19 diciembre 2022",
+   "Date": "19/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -5283,7 +5408,7 @@
    "Min": 10
  },
  {
-   "Date": "17 diciembre 2022",
+   "Date": "17/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -5292,7 +5417,7 @@
    "Min": 10
  },
  {
-   "Date": "17 diciembre 2022",
+   "Date": "17/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -5301,7 +5426,7 @@
    "Min": 10
  },
  {
-   "Date": "17 diciembre 2022",
+   "Date": "17/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -5310,7 +5435,7 @@
    "Min": 10
  },
  {
-   "Date": "17 diciembre 2022",
+   "Date": "17/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -5319,7 +5444,7 @@
    "Min": 10
  },
  {
-   "Date": "17 diciembre 2022",
+   "Date": "17/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -5328,7 +5453,7 @@
    "Min": 10
  },
  {
-   "Date": "16 diciembre 2022",
+   "Date": "16/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -5337,7 +5462,7 @@
    "Min": 10
  },
  {
-   "Date": "16 diciembre 2022",
+   "Date": "16/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -5346,7 +5471,7 @@
    "Min": 10
  },
  {
-   "Date": "16 diciembre 2022",
+   "Date": "16/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -5355,7 +5480,7 @@
    "Min": 10
  },
  {
-   "Date": "16 diciembre 2022",
+   "Date": "16/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -5364,7 +5489,7 @@
    "Min": 10
  },
  {
-   "Date": "15 diciembre 2022",
+   "Date": "15/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -5373,7 +5498,7 @@
    "Min": 10
  },
  {
-   "Date": "15 diciembre 2022",
+   "Date": "15/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -5382,7 +5507,7 @@
    "Min": 10
  },
  {
-   "Date": "15 diciembre 2022",
+   "Date": "15/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -5391,7 +5516,7 @@
    "Min": 10
  },
  {
-   "Date": "14 diciembre 2022",
+   "Date": "14/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5400,7 +5525,7 @@
    "Min": 10
  },
  {
-   "Date": "14 diciembre 2022",
+   "Date": "14/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5409,7 +5534,7 @@
    "Min": 10
  },
  {
-   "Date": "14 diciembre 2022",
+   "Date": "14/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -5418,7 +5543,7 @@
    "Min": 10
  },
  {
-   "Date": "14 diciembre 2022",
+   "Date": "14/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5427,7 +5552,7 @@
    "Min": 10
  },
  {
-   "Date": "14 diciembre 2022",
+   "Date": "14/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -5436,7 +5561,7 @@
    "Min": 10
  },
  {
-   "Date": "14 diciembre 2022",
+   "Date": "14/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -5445,7 +5570,7 @@
    "Min": 10
  },
  {
-   "Date": "14 diciembre 2022",
+   "Date": "14/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5454,7 +5579,7 @@
    "Min": 10
  },
  {
-   "Date": "13 diciembre 2022",
+   "Date": "13/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -5463,7 +5588,7 @@
    "Min": 10
  },
  {
-   "Date": "13 diciembre 2022",
+   "Date": "13/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -5472,7 +5597,7 @@
    "Min": 10
  },
  {
-   "Date": "13 diciembre 2022",
+   "Date": "13/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -5481,7 +5606,7 @@
    "Min": 10
  },
  {
-   "Date": "13 diciembre 2022",
+   "Date": "13/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 6,
@@ -5490,7 +5615,7 @@
    "Min": 10
  },
  {
-   "Date": "13 diciembre 2022",
+   "Date": "13/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -5499,7 +5624,7 @@
    "Min": 10
  },
  {
-   "Date": "13 diciembre 2022",
+   "Date": "13/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -5508,7 +5633,7 @@
    "Min": 10
  },
  {
-   "Date": "12 diciembre 2022",
+   "Date": "12/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5517,7 +5642,7 @@
    "Min": 10
  },
  {
-   "Date": "12 diciembre 2022",
+   "Date": "12/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -5526,7 +5651,7 @@
    "Min": 10
  },
  {
-   "Date": "12 diciembre 2022",
+   "Date": "12/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -5535,7 +5660,7 @@
    "Min": 10
  },
  {
-   "Date": "12 diciembre 2022",
+   "Date": "12/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -5544,7 +5669,7 @@
    "Min": 10
  },
  {
-   "Date": "12 diciembre 2022",
+   "Date": "12/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -5553,7 +5678,7 @@
    "Min": 10
  },
  {
-   "Date": "12 diciembre 2022",
+   "Date": "12/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -5562,7 +5687,7 @@
    "Min": 10
  },
  {
-   "Date": "12 diciembre 2022",
+   "Date": "12/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5571,7 +5696,7 @@
    "Min": 10
  },
  {
-   "Date": "12 diciembre 2022",
+   "Date": "12/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5580,7 +5705,7 @@
    "Min": 10
  },
  {
-   "Date": "11 diciembre 2022",
+   "Date": "11/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -5589,7 +5714,7 @@
    "Min": 10
  },
  {
-   "Date": "11 diciembre 2022",
+   "Date": "11/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -5598,7 +5723,7 @@
    "Min": 10
  },
  {
-   "Date": "11 diciembre 2022",
+   "Date": "11/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5607,7 +5732,7 @@
    "Min": 10
  },
  {
-   "Date": "11 diciembre 2022",
+   "Date": "11/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5616,7 +5741,7 @@
    "Min": 10
  },
  {
-   "Date": "11 diciembre 2022",
+   "Date": "11/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -5625,7 +5750,7 @@
    "Min": 10
  },
  {
-   "Date": "10 diciembre 2022",
+   "Date": "10/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5634,7 +5759,7 @@
    "Min": 10
  },
  {
-   "Date": "10 diciembre 2022",
+   "Date": "10/12/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 6,
@@ -5643,7 +5768,7 @@
    "Min": 10
  },
  {
-   "Date": "10 diciembre 2022",
+   "Date": "10/12/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 4,
@@ -5652,7 +5777,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2022",
+   "Date": "11/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5661,7 +5786,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2022",
+   "Date": "11/11/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -5670,7 +5795,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2022",
+   "Date": "11/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -5679,7 +5804,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2022",
+   "Date": "11/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5688,7 +5813,7 @@
    "Min": 10
  },
  {
-   "Date": "11 noviembre 2022",
+   "Date": "11/11/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -5697,7 +5822,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2022",
+   "Date": "10/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -5706,7 +5831,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2022",
+   "Date": "10/11/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -5715,7 +5840,7 @@
    "Min": 10
  },
  {
-   "Date": "10 noviembre 2022",
+   "Date": "10/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5724,7 +5849,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2022",
+   "Date": "9/11/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -5733,7 +5858,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2022",
+   "Date": "9/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -5742,7 +5867,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2022",
+   "Date": "9/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5751,7 +5876,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2022",
+   "Date": "9/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5760,7 +5885,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2022",
+   "Date": "9/11/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -5769,7 +5894,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2022",
+   "Date": "9/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5778,7 +5903,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2022",
+   "Date": "9/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5787,7 +5912,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2022",
+   "Date": "9/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -5796,7 +5921,7 @@
    "Min": 10
  },
  {
-   "Date": "9 noviembre 2022",
+   "Date": "9/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5805,7 +5930,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2022",
+   "Date": "8/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -5814,7 +5939,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2022",
+   "Date": "8/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -5823,7 +5948,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2022",
+   "Date": "8/11/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -5832,7 +5957,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2022",
+   "Date": "8/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -5841,7 +5966,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2022",
+   "Date": "8/11/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -5850,7 +5975,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2022",
+   "Date": "8/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5859,7 +5984,7 @@
    "Min": 10
  },
  {
-   "Date": "8 noviembre 2022",
+   "Date": "8/11/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -5868,7 +5993,7 @@
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2022",
+   "Date": "7/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -5877,7 +6002,7 @@
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2022",
+   "Date": "7/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -5886,7 +6011,7 @@
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2022",
+   "Date": "7/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -5895,7 +6020,7 @@
    "Min": 10
  },
  {
-   "Date": "7 noviembre 2022",
+   "Date": "7/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -5904,7 +6029,7 @@
    "Min": 10
  },
  {
-   "Date": "5 noviembre 2022",
+   "Date": "5/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 4,
@@ -5913,7 +6038,7 @@
    "Min": 10
  },
  {
-   "Date": "5 noviembre 2022",
+   "Date": "5/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5922,7 +6047,7 @@
    "Min": 10
  },
  {
-   "Date": "5 noviembre 2022",
+   "Date": "5/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -5931,7 +6056,7 @@
    "Min": 10
  },
  {
-   "Date": "5 noviembre 2022",
+   "Date": "5/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -5940,7 +6065,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2022",
+   "Date": "4/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5949,7 +6074,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2022",
+   "Date": "4/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -5958,7 +6083,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2022",
+   "Date": "4/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -5967,7 +6092,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2022",
+   "Date": "4/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -5976,7 +6101,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2022",
+   "Date": "4/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5985,7 +6110,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2022",
+   "Date": "4/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -5994,7 +6119,7 @@
    "Min": 10
  },
  {
-   "Date": "4 noviembre 2022",
+   "Date": "4/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -6003,7 +6128,7 @@
    "Min": 10
  },
  {
-   "Date": "3 noviembre 2022",
+   "Date": "3/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -6012,7 +6137,7 @@
    "Min": 10
  },
  {
-   "Date": "3 noviembre 2022",
+   "Date": "3/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -6021,7 +6146,7 @@
    "Min": 10
  },
  {
-   "Date": "3 noviembre 2022",
+   "Date": "3/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6030,7 +6155,7 @@
    "Min": 10
  },
  {
-   "Date": "3 noviembre 2022",
+   "Date": "3/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6039,7 +6164,7 @@
    "Min": 10
  },
  {
-   "Date": "3 noviembre 2022",
+   "Date": "3/11/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -6048,7 +6173,7 @@
    "Min": 10
  },
  {
-   "Date": "3 noviembre 2022",
+   "Date": "3/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6057,7 +6182,7 @@
    "Min": 10
  },
  {
-   "Date": "2 noviembre 2022",
+   "Date": "2/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -6066,7 +6191,7 @@
    "Min": 10
  },
  {
-   "Date": "2 noviembre 2022",
+   "Date": "2/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -6075,7 +6200,7 @@
    "Min": 10
  },
  {
-   "Date": "2 noviembre 2022",
+   "Date": "2/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6084,7 +6209,7 @@
    "Min": 10
  },
  {
-   "Date": "2 noviembre 2022",
+   "Date": "2/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -6093,7 +6218,7 @@
    "Min": 10
  },
  {
-   "Date": "1 noviembre 2022",
+   "Date": "1/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6102,7 +6227,7 @@
    "Min": 10
  },
  {
-   "Date": "1 noviembre 2022",
+   "Date": "1/11/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -6111,7 +6236,7 @@
    "Min": 10
  },
  {
-   "Date": "31 octubre 2022",
+   "Date": "31/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -6120,7 +6245,7 @@
    "Min": 10
  },
  {
-   "Date": "31 octubre 2022",
+   "Date": "31/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6129,7 +6254,7 @@
    "Min": 10
  },
  {
-   "Date": "31 octubre 2022",
+   "Date": "31/10/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -6138,7 +6263,7 @@
    "Min": 10
  },
  {
-   "Date": "31 octubre 2022",
+   "Date": "31/10/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 4,
@@ -6147,7 +6272,7 @@
    "Min": 10
  },
  {
-   "Date": "31 octubre 2022",
+   "Date": "31/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -6156,7 +6281,7 @@
    "Min": 10
  },
  {
-   "Date": "31 octubre 2022",
+   "Date": "31/10/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -6165,7 +6290,7 @@
    "Min": 10
  },
  {
-   "Date": "30 octubre 2022",
+   "Date": "30/10/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -6174,7 +6299,7 @@
    "Min": 10
  },
  {
-   "Date": "30 octubre 2022",
+   "Date": "30/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -6183,7 +6308,7 @@
    "Min": 10
  },
  {
-   "Date": "30 octubre 2022",
+   "Date": "30/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6192,7 +6317,7 @@
    "Min": 10
  },
  {
-   "Date": "30 octubre 2022",
+   "Date": "30/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 5,
@@ -6201,7 +6326,7 @@
    "Min": 10
  },
  {
-   "Date": "30 octubre 2022",
+   "Date": "30/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -6210,7 +6335,7 @@
    "Min": 10
  },
  {
-   "Date": "28 octubre 2022",
+   "Date": "28/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -6219,7 +6344,7 @@
    "Min": 10
  },
  {
-   "Date": "28 octubre 2022",
+   "Date": "28/10/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -6228,7 +6353,7 @@
    "Min": 10
  },
  {
-   "Date": "27 octubre 2022",
+   "Date": "27/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6237,7 +6362,7 @@
    "Min": 10
  },
  {
-   "Date": "27 octubre 2022",
+   "Date": "27/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6246,7 +6371,7 @@
    "Min": 10
  },
  {
-   "Date": "27 octubre 2022",
+   "Date": "27/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6255,7 +6380,7 @@
    "Min": 10
  },
  {
-   "Date": "26 octubre 2022",
+   "Date": "26/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6264,7 +6389,7 @@
    "Min": 10
  },
  {
-   "Date": "26 octubre 2022",
+   "Date": "26/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -6273,7 +6398,7 @@
    "Min": 10
  },
  {
-   "Date": "26 octubre 2022",
+   "Date": "26/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6282,7 +6407,7 @@
    "Min": 10
  },
  {
-   "Date": "26 octubre 2022",
+   "Date": "26/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6291,7 +6416,7 @@
    "Min": 10
  },
  {
-   "Date": "26 octubre 2022",
+   "Date": "26/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -6300,7 +6425,7 @@
    "Min": 10
  },
  {
-   "Date": "25 octubre 2022",
+   "Date": "25/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6309,7 +6434,7 @@
    "Min": 10
  },
  {
-   "Date": "25 octubre 2022",
+   "Date": "25/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6318,7 +6443,7 @@
    "Min": 10
  },
  {
-   "Date": "25 octubre 2022",
+   "Date": "25/10/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -6327,7 +6452,7 @@
    "Min": 10
  },
  {
-   "Date": "25 octubre 2022",
+   "Date": "25/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -6336,7 +6461,7 @@
    "Min": 10
  },
  {
-   "Date": "24 octubre 2022",
+   "Date": "24/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -6345,7 +6470,7 @@
    "Min": 10
  },
  {
-   "Date": "24 octubre 2022",
+   "Date": "24/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -6354,7 +6479,7 @@
    "Min": 10
  },
  {
-   "Date": "24 octubre 2022",
+   "Date": "24/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6363,7 +6488,7 @@
    "Min": 10
  },
  {
-   "Date": "21 octubre 2022",
+   "Date": "21/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -6372,7 +6497,7 @@
    "Min": 10
  },
  {
-   "Date": "21 octubre 2022",
+   "Date": "21/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 20,
@@ -6381,7 +6506,7 @@
    "Min": 10
  },
  {
-   "Date": "21 octubre 2022",
+   "Date": "21/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -6390,7 +6515,7 @@
    "Min": 10
  },
  {
-   "Date": "16 octubre 2022",
+   "Date": "16/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -6399,7 +6524,7 @@
    "Min": 10
  },
  {
-   "Date": "16 octubre 2022",
+   "Date": "16/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -6408,7 +6533,7 @@
    "Min": 10
  },
  {
-   "Date": "16 octubre 2022",
+   "Date": "16/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6417,7 +6542,7 @@
    "Min": 10
  },
  {
-   "Date": "15 octubre 2022",
+   "Date": "15/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -6426,7 +6551,7 @@
    "Min": 10
  },
  {
-   "Date": "14 octubre 2022",
+   "Date": "14/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6435,7 +6560,7 @@
    "Min": 10
  },
  {
-   "Date": "11 octubre 2022",
+   "Date": "11/10/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -6444,7 +6569,7 @@
    "Min": 10
  },
  {
-   "Date": "30 septiembre 2022",
+   "Date": "30/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6453,7 +6578,7 @@
    "Min": 10
  },
  {
-   "Date": "29 septiembre 2022",
+   "Date": "29/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -6462,7 +6587,7 @@
    "Min": 10
  },
  {
-   "Date": "29 septiembre 2022",
+   "Date": "29/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6471,7 +6596,7 @@
    "Min": 10
  },
  {
-   "Date": "29 septiembre 2022",
+   "Date": "29/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 18,
@@ -6480,7 +6605,7 @@
    "Min": 10
  },
  {
-   "Date": "29 septiembre 2022",
+   "Date": "29/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -6489,7 +6614,7 @@
    "Min": 10
  },
  {
-   "Date": "29 septiembre 2022",
+   "Date": "29/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6498,7 +6623,7 @@
    "Min": 10
  },
  {
-   "Date": "28 septiembre 2022",
+   "Date": "28/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -6507,7 +6632,7 @@
    "Min": 10
  },
  {
-   "Date": "28 septiembre 2022",
+   "Date": "28/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -6516,7 +6641,7 @@
    "Min": 10
  },
  {
-   "Date": "28 septiembre 2022",
+   "Date": "28/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 16,
@@ -6525,7 +6650,7 @@
    "Min": 10
  },
  {
-   "Date": "28 septiembre 2022",
+   "Date": "28/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6534,7 +6659,7 @@
    "Min": 10
  },
  {
-   "Date": "27 septiembre 2022",
+   "Date": "27/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -6543,7 +6668,7 @@
    "Min": 10
  },
  {
-   "Date": "27 septiembre 2022",
+   "Date": "27/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6552,7 +6677,7 @@
    "Min": 10
  },
  {
-   "Date": "27 septiembre 2022",
+   "Date": "27/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6561,7 +6686,7 @@
    "Min": 10
  },
  {
-   "Date": "27 septiembre 2022",
+   "Date": "27/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6570,7 +6695,7 @@
    "Min": 10
  },
  {
-   "Date": "26 septiembre 2022",
+   "Date": "26/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6579,7 +6704,7 @@
    "Min": 10
  },
  {
-   "Date": "26 septiembre 2022",
+   "Date": "26/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -6588,7 +6713,7 @@
    "Min": 10
  },
  {
-   "Date": "26 septiembre 2022",
+   "Date": "26/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -6597,7 +6722,7 @@
    "Min": 10
  },
  {
-   "Date": "25 septiembre 2022",
+   "Date": "25/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6606,7 +6731,7 @@
    "Min": 10
  },
  {
-   "Date": "25 septiembre 2022",
+   "Date": "25/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -6615,7 +6740,7 @@
    "Min": 10
  },
  {
-   "Date": "24 septiembre 2022",
+   "Date": "24/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -6624,7 +6749,7 @@
    "Min": 10
  },
  {
-   "Date": "24 septiembre 2022",
+   "Date": "24/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -6633,7 +6758,7 @@
    "Min": 10
  },
  {
-   "Date": "24 septiembre 2022",
+   "Date": "24/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -6642,7 +6767,7 @@
    "Min": 10
  },
  {
-   "Date": "24 septiembre 2022",
+   "Date": "24/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -6651,7 +6776,7 @@
    "Min": 10
  },
  {
-   "Date": "24 septiembre 2022",
+   "Date": "24/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -6660,7 +6785,7 @@
    "Min": 10
  },
  {
-   "Date": "23 septiembre 2022",
+   "Date": "23/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -6669,7 +6794,7 @@
    "Min": 10
  },
  {
-   "Date": "23 septiembre 2022",
+   "Date": "23/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 19,
@@ -6678,7 +6803,7 @@
    "Min": 10
  },
  {
-   "Date": "23 septiembre 2022",
+   "Date": "23/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6687,7 +6812,7 @@
    "Min": 10
  },
  {
-   "Date": "23 septiembre 2022",
+   "Date": "23/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -6696,7 +6821,7 @@
    "Min": 10
  },
  {
-   "Date": "23 septiembre 2022",
+   "Date": "23/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -6705,7 +6830,7 @@
    "Min": 10
  },
  {
-   "Date": "23 septiembre 2022",
+   "Date": "23/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -6714,7 +6839,7 @@
    "Min": 10
  },
  {
-   "Date": "22 septiembre 2022",
+   "Date": "22/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -6723,7 +6848,7 @@
    "Min": 10
  },
  {
-   "Date": "22 septiembre 2022",
+   "Date": "22/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6732,7 +6857,7 @@
    "Min": 10
  },
  {
-   "Date": "22 septiembre 2022",
+   "Date": "22/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6741,7 +6866,7 @@
    "Min": 10
  },
  {
-   "Date": "22 septiembre 2022",
+   "Date": "22/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6750,7 +6875,7 @@
    "Min": 10
  },
  {
-   "Date": "22 septiembre 2022",
+   "Date": "22/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -6759,7 +6884,7 @@
    "Min": 10
  },
  {
-   "Date": "22 septiembre 2022",
+   "Date": "22/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -6768,7 +6893,7 @@
    "Min": 10
  },
  {
-   "Date": "22 septiembre 2022",
+   "Date": "22/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6777,7 +6902,7 @@
    "Min": 10
  },
  {
-   "Date": "22 septiembre 2022",
+   "Date": "22/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -6786,7 +6911,7 @@
    "Min": 10
  },
  {
-   "Date": "20 septiembre 2022",
+   "Date": "20/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -6795,7 +6920,7 @@
    "Min": 10
  },
  {
-   "Date": "20 septiembre 2022",
+   "Date": "20/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -6804,7 +6929,7 @@
    "Min": 10
  },
  {
-   "Date": "20 septiembre 2022",
+   "Date": "20/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -6813,7 +6938,7 @@
    "Min": 10
  },
  {
-   "Date": "20 septiembre 2022",
+   "Date": "20/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -6822,7 +6947,7 @@
    "Min": 10
  },
  {
-   "Date": "20 septiembre 2022",
+   "Date": "20/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -6831,7 +6956,7 @@
    "Min": 10
  },
  {
-   "Date": "20 septiembre 2022",
+   "Date": "20/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -6840,7 +6965,7 @@
    "Min": 10
  },
  {
-   "Date": "20 septiembre 2022",
+   "Date": "20/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6849,7 +6974,7 @@
    "Min": 10
  },
  {
-   "Date": "20 septiembre 2022",
+   "Date": "20/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6858,7 +6983,7 @@
    "Min": 10
  },
  {
-   "Date": "20 septiembre 2022",
+   "Date": "20/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -6867,7 +6992,7 @@
    "Min": 10
  },
  {
-   "Date": "20 septiembre 2022",
+   "Date": "20/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -6876,7 +7001,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -6885,7 +7010,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -6894,7 +7019,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -6903,7 +7028,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -6912,7 +7037,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -6921,7 +7046,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -6930,7 +7055,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -6939,7 +7064,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -6948,7 +7073,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -6957,7 +7082,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -6966,7 +7091,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -6975,7 +7100,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -6984,7 +7109,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 19,
@@ -6993,7 +7118,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 7,
@@ -7002,7 +7127,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -7011,7 +7136,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -7020,7 +7145,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -7029,7 +7154,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -7038,7 +7163,7 @@
    "Min": 10
  },
  {
-   "Date": "19 septiembre 2022",
+   "Date": "19/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -7047,7 +7172,7 @@
    "Min": 10
  },
  {
-   "Date": "18 septiembre 2022",
+   "Date": "18/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -7056,7 +7181,7 @@
    "Min": 10
  },
  {
-   "Date": "18 septiembre 2022",
+   "Date": "18/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 20,
@@ -7065,7 +7190,7 @@
    "Min": 10
  },
  {
-   "Date": "18 septiembre 2022",
+   "Date": "18/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -7074,7 +7199,7 @@
    "Min": 10
  },
  {
-   "Date": "18 septiembre 2022",
+   "Date": "18/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -7083,7 +7208,7 @@
    "Min": 10
  },
  {
-   "Date": "16 septiembre 2022",
+   "Date": "16/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -7092,7 +7217,7 @@
    "Min": 10
  },
  {
-   "Date": "16 septiembre 2022",
+   "Date": "16/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -7101,7 +7226,7 @@
    "Min": 10
  },
  {
-   "Date": "16 septiembre 2022",
+   "Date": "16/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -7110,7 +7235,7 @@
    "Min": 10
  },
  {
-   "Date": "16 septiembre 2022",
+   "Date": "16/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 7,
@@ -7119,7 +7244,7 @@
    "Min": 10
  },
  {
-   "Date": "16 septiembre 2022",
+   "Date": "16/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
@@ -7128,7 +7253,7 @@
    "Min": 10
  },
  {
-   "Date": "15 septiembre 2022",
+   "Date": "15/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -7137,7 +7262,7 @@
    "Min": 10
  },
  {
-   "Date": "15 septiembre 2022",
+   "Date": "15/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -7146,7 +7271,7 @@
    "Min": 10
  },
  {
-   "Date": "15 septiembre 2022",
+   "Date": "15/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -7155,7 +7280,7 @@
    "Min": 10
  },
  {
-   "Date": "15 septiembre 2022",
+   "Date": "15/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -7164,7 +7289,7 @@
    "Min": 10
  },
  {
-   "Date": "14 septiembre 2022",
+   "Date": "14/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -7173,7 +7298,7 @@
    "Min": 10
  },
  {
-   "Date": "14 septiembre 2022",
+   "Date": "14/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 16,
@@ -7182,7 +7307,7 @@
    "Min": 10
  },
  {
-   "Date": "14 septiembre 2022",
+   "Date": "14/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -7191,7 +7316,7 @@
    "Min": 10
  },
  {
-   "Date": "14 septiembre 2022",
+   "Date": "14/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -7200,7 +7325,7 @@
    "Min": 10
  },
  {
-   "Date": "13 septiembre 2022",
+   "Date": "13/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -7209,7 +7334,7 @@
    "Min": 10
  },
  {
-   "Date": "13 septiembre 2022",
+   "Date": "13/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -7218,7 +7343,7 @@
    "Min": 10
  },
  {
-   "Date": "13 septiembre 2022",
+   "Date": "13/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -7227,7 +7352,7 @@
    "Min": 10
  },
  {
-   "Date": "13 septiembre 2022",
+   "Date": "13/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 20,
@@ -7236,7 +7361,7 @@
    "Min": 10
  },
  {
-   "Date": "13 septiembre 2022",
+   "Date": "13/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -7245,7 +7370,7 @@
    "Min": 10
  },
  {
-   "Date": "13 septiembre 2022",
+   "Date": "13/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -7254,7 +7379,7 @@
    "Min": 10
  },
  {
-   "Date": "13 septiembre 2022",
+   "Date": "13/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -7263,7 +7388,7 @@
    "Min": 10
  },
  {
-   "Date": "13 septiembre 2022",
+   "Date": "13/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -7272,7 +7397,7 @@
    "Min": 10
  },
  {
-   "Date": "12 septiembre 2022",
+   "Date": "12/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -7281,7 +7406,7 @@
    "Min": 10
  },
  {
-   "Date": "12 septiembre 2022",
+   "Date": "12/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 15,
@@ -7290,7 +7415,7 @@
    "Min": 10
  },
  {
-   "Date": "12 septiembre 2022",
+   "Date": "12/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -7299,7 +7424,7 @@
    "Min": 10
  },
  {
-   "Date": "12 septiembre 2022",
+   "Date": "12/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -7308,7 +7433,7 @@
    "Min": 10
  },
  {
-   "Date": "11 septiembre 2022",
+   "Date": "11/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -7317,7 +7442,7 @@
    "Min": 10
  },
  {
-   "Date": "11 septiembre 2022",
+   "Date": "11/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 6,
@@ -7326,7 +7451,7 @@
    "Min": 10
  },
  {
-   "Date": "11 septiembre 2022",
+   "Date": "11/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -7335,7 +7460,7 @@
    "Min": 10
  },
  {
-   "Date": "11 septiembre 2022",
+   "Date": "11/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -7344,7 +7469,7 @@
    "Min": 10
  },
  {
-   "Date": "11 septiembre 2022",
+   "Date": "11/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -7353,7 +7478,7 @@
    "Min": 10
  },
  {
-   "Date": "11 septiembre 2022",
+   "Date": "11/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -7362,7 +7487,7 @@
    "Min": 10
  },
  {
-   "Date": "11 septiembre 2022",
+   "Date": "11/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -7371,7 +7496,7 @@
    "Min": 10
  },
  {
-   "Date": "11 septiembre 2022",
+   "Date": "11/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -7380,7 +7505,7 @@
    "Min": 10
  },
  {
-   "Date": "8 septiembre 2022",
+   "Date": "8/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 10,
@@ -7389,7 +7514,7 @@
    "Min": 10
  },
  {
-   "Date": "8 septiembre 2022",
+   "Date": "8/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -7398,7 +7523,7 @@
    "Min": 10
  },
  {
-   "Date": "8 septiembre 2022",
+   "Date": "8/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -7407,7 +7532,7 @@
    "Min": 10
  },
  {
-   "Date": "6 septiembre 2022",
+   "Date": "6/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 17,
@@ -7416,7 +7541,7 @@
    "Min": 10
  },
  {
-   "Date": "6 septiembre 2022",
+   "Date": "6/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -7425,7 +7550,7 @@
    "Min": 10
  },
  {
-   "Date": "6 septiembre 2022",
+   "Date": "6/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -7434,7 +7559,7 @@
    "Min": 10
  },
  {
-   "Date": "6 septiembre 2022",
+   "Date": "6/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -7443,7 +7568,7 @@
    "Min": 10
  },
  {
-   "Date": "6 septiembre 2022",
+   "Date": "6/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 15,
@@ -7452,7 +7577,7 @@
    "Min": 10
  },
  {
-   "Date": "5 septiembre 2022",
+   "Date": "5/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 13,
@@ -7461,7 +7586,7 @@
    "Min": 10
  },
  {
-   "Date": "5 septiembre 2022",
+   "Date": "5/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -7470,7 +7595,7 @@
    "Min": 10
  },
  {
-   "Date": "5 septiembre 2022",
+   "Date": "5/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -7479,7 +7604,7 @@
    "Min": 10
  },
  {
-   "Date": "4 septiembre 2022",
+   "Date": "4/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 12,
@@ -7488,7 +7613,7 @@
    "Min": 10
  },
  {
-   "Date": "4 septiembre 2022",
+   "Date": "4/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 21,
@@ -7497,7 +7622,7 @@
    "Min": 10
  },
  {
-   "Date": "4 septiembre 2022",
+   "Date": "4/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 20,
@@ -7506,7 +7631,7 @@
    "Min": 10
  },
  {
-   "Date": "4 septiembre 2022",
+   "Date": "4/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -7515,7 +7640,7 @@
    "Min": 10
  },
  {
-   "Date": "4 septiembre 2022",
+   "Date": "4/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -7524,7 +7649,7 @@
    "Min": 10
  },
  {
-   "Date": "3 septiembre 2022",
+   "Date": "3/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -7533,7 +7658,7 @@
    "Min": 10
  },
  {
-   "Date": "3 septiembre 2022",
+   "Date": "3/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -7542,7 +7667,7 @@
    "Min": 10
  },
  {
-   "Date": "3 septiembre 2022",
+   "Date": "3/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -7551,7 +7676,7 @@
    "Min": 10
  },
  {
-   "Date": "2 septiembre 2022",
+   "Date": "2/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -7560,7 +7685,7 @@
    "Min": 10
  },
  {
-   "Date": "2 septiembre 2022",
+   "Date": "2/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -7569,7 +7694,7 @@
    "Min": 10
  },
  {
-   "Date": "1 septiembre 2022",
+   "Date": "1/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -7578,7 +7703,7 @@
    "Min": 10
  },
  {
-   "Date": "1 septiembre 2022",
+   "Date": "1/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -7587,7 +7712,7 @@
    "Min": 10
  },
  {
-   "Date": "1 septiembre 2022",
+   "Date": "1/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -7596,7 +7721,7 @@
    "Min": 10
  },
  {
-   "Date": "1 septiembre 2022",
+   "Date": "1/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 16,
@@ -7605,7 +7730,7 @@
    "Min": 10
  },
  {
-   "Date": "1 septiembre 2022",
+   "Date": "1/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 10,
@@ -7614,7 +7739,7 @@
    "Min": 10
  },
  {
-   "Date": "1 septiembre 2022",
+   "Date": "1/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 9,
@@ -7623,7 +7748,7 @@
    "Min": 10
  },
  {
-   "Date": "1 septiembre 2022",
+   "Date": "1/09/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 8,
@@ -7632,7 +7757,7 @@
    "Min": 10
  },
  {
-   "Date": "1 septiembre 2022",
+   "Date": "1/09/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 9,
@@ -7641,7 +7766,7 @@
    "Min": 10
  },
  {
-   "Date": "31 agosto 2022",
+   "Date": "31/08/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 11,
@@ -7650,7 +7775,7 @@
    "Min": 10
  },
  {
-   "Date": "31 agosto 2022",
+   "Date": "31/08/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 5,
@@ -7659,7 +7784,7 @@
    "Min": 10
  },
  {
-   "Date": "31 agosto 2022",
+   "Date": "31/08/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 18,
@@ -7668,7 +7793,7 @@
    "Min": 10
  },
  {
-   "Date": "31 agosto 2022",
+   "Date": "31/08/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 11,
@@ -7677,7 +7802,7 @@
    "Min": 10
  },
  {
-   "Date": "31 agosto 2022",
+   "Date": "31/08/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -7686,7 +7811,7 @@
    "Min": 10
  },
  {
-   "Date": "31 agosto 2022",
+   "Date": "31/08/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 13,
@@ -7695,7 +7820,7 @@
    "Min": 10
  },
  {
-   "Date": "31 agosto 2022",
+   "Date": "31/08/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 18,
@@ -7704,7 +7829,7 @@
    "Min": 10
  },
  {
-   "Date": "30 agosto 2022",
+   "Date": "30/08/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 8,
@@ -7713,7 +7838,7 @@
    "Min": 10
  },
  {
-   "Date": "30 agosto 2022",
+   "Date": "30/08/2022",
    "Name": "Cinic",
    "Win": 1,
    "WScore": 14,
@@ -7722,7 +7847,7 @@
    "Min": 10
  },
  {
-   "Date": "30 agosto 2022",
+   "Date": "30/08/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 12,
@@ -7731,7 +7856,7 @@
    "Min": 10
  },
  {
-   "Date": "30 agosto 2022",
+   "Date": "30/08/2022",
    "Name": "NickMa",
    "Win": 1,
    "WScore": 14,
