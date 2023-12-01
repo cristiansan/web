@@ -1,95 +1,72 @@
-/* Estilos para el texto "Estadísticas All" */
-#estadisticas {
-  clear: both; /* Forzar que el elemento se sitúe debajo de los elementos flotantes anteriores */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100vh;
 }
 
-/* Estilos para el selector de año */
-#selectYear {
-  font-size: 24px; /* Tamaño de fuente */
-  padding: 5px; /* Espaciado interno */
+.container {
+  text-align: center;
+  margin-top: 10vh; /* Espacio superior ajustado */
 }
 
-/* Estilos para la tabla */
-.custom-table {
-  clear: both; /* Forzar que este elemento se sitúe debajo de los elementos flotantes anteriores */
-  width: 100%;
-  border-collapse: collapse;
-  background-color: black; /* Fondo negro */
-  color: white; /* Letras blancas */
+h1 {
+  font-size: 4em;
+  margin-bottom: 5px; /* Espacio entre títulos */
 }
 
-.custom-table th,
-
-/* La tabla con fecha nick score y mapa */
-.custom-table td {
-  clear: both; /* Forzar que este elemento se sitúe debajo de los elementos flotantes anteriores */
-  border: 3px solid white;
-  padding: 1px;
-  /* height: 100px; */
-}
-/*titulo de la tabla estadisticas de abajo, date, nick, win, etc*/
-.custom-table th {
-  /* width: 100%; */
-  align-items: self-start;
-  background-color: #333;
-  padding: 2px;
-  font-weight: bold;
+.subtitle {
+  font-size: 1.5em;
 }
 
-/* Estilos para las estadísticas */
-/*.stats-grid {
-  clear: both; /* Forzar que este elemento se sitúe debajo de los elementos flotantes anteriores */
-  /*float: none;
-  padding: 1px;/* espacio entre cuadrados */
- /* margin-top: 10px;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);/* cantidad de columnas */
- /* border: 1px solid white;*/
- /* grid-gap: 1px; /* espacio entre cuadrados */
-  /*color: white; /* Letras blancas */
-/*}*/
+/* Botones de cambio de tema */
+.theme-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
 
-/* cuadrados donde estan las estadísticas */
-/* .stats-item {
-  clear: both; /* Forzar que este elemento se sitúe debajo de los elementos flotantes anteriores */
- /* background-color: #333;
-  padding: 50px; /* ancho de cuadrados estadisticas*/
- /* border-radius: 1px;
-  border: 1px solid white;
-} */
+.theme-buttons button {
+  margin-left: 5px;
+}
 
-/* Estilos para la cuadrícula */
-/* .grid-container {
-  clear: both; /* Forzar que este elemento se sitúe debajo de los elementos flotantes anteriores */
-  /* display: grid; */
-  /* grid-template-columns: repeat(auto-fit, minmax(20px, 1fr)); */
-  /* gap: 1px; Entre año y la cuadricula (creo) */
-/* } */
-
-.grid-item {
-  clear: both; /* Forzar que este elemento se sitúe debajo de los elementos flotantes anteriores */
-  background-color: #333;
-  padding: 1px;
-  border-radius: 3px;
+/* Estilos para el tema dark */
+body.dark-theme {
+  background-color: black;
   color: white;
 }
-/* .grid-container { */
-  /* clear: both; */
-  /* Forzar que este elemento se sitúe debajo de los elementos flotantes anteriores */ */
- /*  float: left; 
-  padding: 1px;
-  margin-top: 0px; 
-  margin-bottom: 20px; 
-  width: 1%; Ajusta el ancho según sea necesario */
-/* }  */
 
-/* Estilos para el gráfico de torta */
-.grafico-chico {
-  clear: both; /* Forzar que este elemento se sitúe debajo de los elementos flotantes anteriores */
-  float: left;
-  width: 50%; /* Ancho del gráfico */
-  height: auto; /* Altura automática para mantener la proporción */
-  margin-top: 120px; /* Espacio en la parte superior */
-  margin-bottom: 10px; /* Espacio en la parte inferior */
+/* Estilos para el tema light */
+body.light-theme {
+  background-color: white;
+  color: black;
 }
 
+/* Posicionamiento de los botones */
+.theme-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.theme-buttons button {
+  margin-left: 5px;
+}
+
+/* Resto de tu CSS */
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 3em;
+  }
+
+  .subtitle {
+    font-size: 1.2em;
+  }
+}
