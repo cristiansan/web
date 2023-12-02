@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Gráfico de Torta - Victorias por Jugador</title>
+  <!-- Agregar referencia a la biblioteca de Google Charts -->
+  <script src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+<body>
+  <h1>Gráfico de Torta - Victorias por Jugador</h1>
+  
+  <div>
+    <label for="rangoTiempo">Seleccionar rango de tiempo:</label>
+    <select id="rangoTiempo" onchange="actualizarGrafico()">
+      <option value="dia">Día</option>
+      <option value="semana">Semana</option>
+      <option value="mes">Mes</option>
+      <option value="anio">Año</option>
+    </select>
+  </div>
+
+  <div id="graficoTorta" style="width: 400px; height: 400px;"></div>
+
+  <script>
+    fetch('quake.json') // Reemplaza 'tu_archivo.json' con la ruta correcta a tu archivo JSON
+      .then(response => response.json())
+      .then(data => {
+        let datosFiltrados = data; // Almacenar todos los datos inicialmente
+
+        // Función para filtrar los datos según el rango de tiempo seleccionado
+        function filtrarDatos(rango) {
+          const fechaActual = new Date();
+          let fechaLimite;
+
+          if (rango === 'dia') {
+            fechaLimite = new Date(fechaActual);
+          } else if (rango === 'semana') {
+            fechaLimite = new Date(fechaActual.getFullYear(), fechaActual.getMonth(), fechaActual.getDate() - 7);
+          } else if (rango === 'mes') {
+            fechaLimite = new Date(fechaActual.getFullYear(), fechaActual.getMonth() - 1, fechaActual.getDate());
+          } else if (rango === 'anio') {
+            fechaLimite = new Date(fechaActual.getFullYear() - 1, fechaActual.getMonth(), fechaActual.getDate());
+          }
+
+          datosFiltrados = data.filter(registro => new Date(registro.Date) > fechaLimite);
+          dibujarGrafico(datosFiltrados);
+        }
+
+        // Función para dibujar el gráfico
+        function dibujarGrafico(datos) {
+          const nombresJugadores = datos.map(jugador => jugador.Name);
+          const victoriasPorJugador = {};
+          nombresJugadores.forEach(nombre => {
+            victoriasPorJugador[nombre] = (victoriasPorJugador[nombre] || 0) + 1;
+          });
+
+          const datosGrafico = Object.entries(victoriasPorJugador).map(([nombre, valor]) => [nombre, valor]);
+
+          google.charts.load('current', {'packages':['corechart']});
+          google.charts.setOnLoadCallback(() => {
+            const data = new google.visualization.DataTable();
+            data.addColumn('string', 'Jugador');
+            data.addColumn('number', 'Victorias');
+            data.addRows(datosGrafico);
+
+            const options = {
+              title: 'Victorias por Jugador',
+              pieHole: 0.4,
+            };
+
+            const chart = new google.visualization.PieChart(document.getElementById('graficoTorta'));
+            chart.draw(data, options);
+          });
+        }
+
+        // Función para actualizar el gráfico cuando cambia la selección del filtro
+        window.actualizarGrafico = function() {
+          const seleccion = document.getElementById('rangoTiempo').value;
+          filtrarDatos(seleccion);
+        };
+
+        // Dibujar el gráfico inicialmente con todos los datos
+        dibujarGrafico(datosFiltrados);
+      })
+      .catch(error => {
+        console.error('Error al cargar datos:', error);
+      });
+  </script>
+</body>
+</html>
