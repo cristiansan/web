@@ -7,7 +7,7 @@
   <script src="https://www.gstatic.com/charts/loader.js"></script>
 </head>
 <body>
-  <h1>Gráfico de Torta - Victorias por Jugador</h1>
+  <h1>Gráfico de Torta - V</h1>
   
   <div>
     <label for="rangoTiempo">Seleccionar rango de tiempo:</label>
@@ -81,6 +81,25 @@
 
         // Dibujar el gráfico inicialmente con todos los datos
         dibujarGrafico(datosFiltrados);
+
+
+        // Función para mostrar los datos en una tabla
+        function mostrarDatosEnTabla(datos) {
+          const tablaDatos = document.getElementById('tablaDatos');
+          tablaDatos.innerHTML = '<h2>Datos de Quake:</h2>';
+          tablaDatos.innerHTML += '<table border="1"><tr><th>Fecha</th><th>Nombre</th><th>Victoria</th><th>Puntuación W</th><th>Puntuación L</th><th>Mapa</th><th>Minutos</th></tr>';
+
+          datos.forEach(registro => {
+            tablaDatos.innerHTML += `<tr><td>${registro.Date}</td><td>${registro.Name}</td><td>${registro.Win}</td><td>${registro.WScore}</td><td>${registro.LScore}</td><td>${registro.Map}</td><td>${registro.Min}</td></tr>`;
+          });
+
+          tablaDatos.innerHTML += '</table>';
+        }
+
+        // Resto del código...
+
+        // Llamar a la función para mostrar los datos en la tabla
+        mostrarDatosEnTabla(datosFiltrados);
       })
       .catch(error => {
         console.error('Error al cargar datos:', error);
@@ -88,3 +107,5 @@
   </script>
 </body>
 </html>
+
+
