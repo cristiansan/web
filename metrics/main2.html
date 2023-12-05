@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Gráfico y Listado de Partidas</title>
+  <script src="https://www.gstatic.com/charts/loader.js"></script>
+  <style>
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .chart-container {
+      width: 600px;
+      height: 400px;
+      margin-bottom: 20px;
+    }
+    .partidas {
+      width: 600px;
+      max-height: 300px;
+      overflow-y: auto;
+      border: 1px solid black;
+      padding: 10px;
+      background-color: #f5f5f5;
+    }
+  </style>
+</head>
+<body>
+  <h1>Gráfico y Listado de Partidas</h1>
+
+  <div class="container">
+    <label for="selectYear">Seleccionar Año:</label>
+    <select id="selectYear"></select>
+
+    <div id="graficoTorta" class="chart-container"></div>
+    <div id="listadoPartidas" class="partidas"></div>
+  </div>
+
+  <script>
+    google.charts.load('current', {'packages':['corechart']});
+
+    document.addEventListener("DOMContentLoaded", () => {
+      const selectYear = document.getElementById('selectYear');
+      const chartContainer = document.getElementById('graficoTorta');
+      const partidasDiv = document.getElementById('listadoPartidas');
+      let quakeData = [];
+
+      fetch('quake.json')
+        .then(response => response.json())
+        .then(data => {
+          quakeData = data;
+
+        //   const uniqueYears = [...new Set(quakeData.map(item => new Date(item.Date).getFullYear()))];
+        //   const uniqueYears = [...new Set(quakeData.map(item => new Date(item.Date).getFullYear()))];
+
+         const uniqueYears = [...new Set(quakeData.map(item => {
+         const [month, day, year] = item.Date.split('/');
+        //  return `${day}/${month}/${year}`; // Formato día/mes/año
+        return `${year}`; // año
+       }))];
+        uniqueYears.forEach(year => {
+            const option = document.createElement('option');
+            option.value = year;
+            option.textContent = year;
+            selectYear.appendChild(option);
+           });
+
+
+
+          selectYear.addEventListener('change', () => {
+            const selectedYear = selectYear.value;
+            const filteredData = selectedYear === 'All' ? quakeData : quakeData.filter(item => new Date(item.Date).getFullYear().toString() === selectedYear);
+            drawChart(filteredData);
+            showPartidas(filteredData);
+          });
+          
+
+          selectYear.value = 'All';
+          selectYear.dispatchEvent(new Event('change'));
+        })
+        .catch(error => {
+          console.error('Error al cargar el JSON:', error);
+        });
+
+      function drawChart(data) {
+        const chartData = google.visualization.arrayToDataTable([
+          ['Jugador', 'Victorias'],
+          ...calculateVictoriesByPlayer(data)
+        ]);
+
+        const options = {
+          title: 'Victorias por Jugador',
+          pieHole: 0.4,
+        };
+
+        const chart = new google.visualization.PieChart(chartContainer);
+        chart.draw(chartData, options);
+      }
+
+      function calculateVictoriesByPlayer(data) {
+        const victories = {};
+        data.forEach(item => {
+          victories[item.Name] = (victories[item.Name] || 0) + (item.Win === 1 ? 1 : 0);
+        });
+        return Object.entries(victories);
+      }
+
+      function showPartidas(data) {
+        partidasDiv.innerHTML = '';
+        data.forEach(partida => {
+          const partidaHTML = document.createElement('p');
+          partidaHTML.textContent = `Fecha: ${partida.Date} - Jugador: ${partida.Name} - Ganó: ${partida.Win === 1 ? 'Sí' : 'No'}`;
+          partidasDiv.appendChild(partidaHTML);
+        });
+      }
+    });
+  </script>
+</body>
+</html>
