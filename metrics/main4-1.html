@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Gráfico y Listado de Partidas</title>
+  <script src="https://www.gstatic.com/charts/loader.js"></script>
+  
+  <style>
+    body {
+      font-size: medium;
+      float: left;
+      margin: 1px;
+      padding: 0;
+      background-color: black; /* Color de fondo negro */
+      color: grey; /* Color del texto blanco */
+      font-family: Arial, sans-serif; /* Tipo de letra */
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: left;
+    }
+    .chart-container {
+      width: 600px;
+      height: 400px;
+      margin-bottom: 20px;
+      background-color: black; /* Color de fondo negro */
+    }
+    .partidas {
+      /* ancho */
+      width: 350px;
+      /* alto */
+      max-height: 400px;
+      overflow-y: auto;
+      border: 1px solid black;
+      padding: 10px;
+      background-color: #f5f5f5;
+    }
+  </style>
+  
+</head>
+<body>
+  <h1>Gráfico y Listado de Partidas</h1>
+
+  <div class="container">
+    <label for="selectYear">Year:</label>
+    <select id="selectYear"></select>
+    <br>
+    <label for="selectMonth">Month:</label>
+    <select id="selectMonth">
+      <option value="All">All</option>
+      <option value="01">Jan</option>
+      <option value="02">Feb</option>
+      <option value="03">Mar</option>
+      <option value="04">Apr</option>
+      <option value="05">May</option>
+      <option value="06">Jun</option>
+      <option value="07">Jul</option>
+      <option value="08">Aug</option>
+      <option value="09">Sep</option>
+      <option value="10">Oct</option>
+      <option value="11">Nov</option>
+      <option value="12">Dec</option>
+    </select>
+    <br>
+
+    <div id="graficoTorta" class="chart-container"></div>
+    <div id="listadoPartidas" class="partidas"></div>
+  </div>
+
+  <script>
+    google.charts.load('current', {'packages':['corechart']});
+
+    document.addEventListener("DOMContentLoaded", () => {
+      const selectYear = document.getElementById('selectYear');
+      const selectMonth = document.getElementById('selectMonth');
+      const chartContainer = document.getElementById('graficoTorta');
+      const partidasDiv = document.getElementById('listadoPartidas');
+      let quakeData = [];
+
+      fetch('quake.json')
+        .then(response => response.json())
+        .then(data => {
+          quakeData = data;
+
+        //   const uniqueYears = [...new Set(quakeData.map(item => new Date(item.Date).getFullYear()))];
+          const uniqueYears = [...new Set(quakeData.map(item => {const [day, month, year] = item.Date.split('/');
+        //  return `${day}/${month}/${year}`; // Formato día/mes/año
+            return `${year}`; // año
+            }))];
+
+          const optionAll = document.createElement('option');
+          optionAll.textContent = 'All'; // O cualquier otra etiqueta que prefieras
+          selectYear.appendChild(optionAll);
+
+          uniqueYears.forEach(year => {
+            const option = document.createElement('option');
+            option.value = year;
+            option.textContent = year;
+            selectYear.appendChild(option);
+          });
+
+          selectYear.addEventListener('change', () => {
+            const selectedYear = selectYear.value;
+            let filteredData;
+
+            if (selectedYear === 'All') {
+              filteredData = quakeData;
+            } else {
+              filteredData = quakeData.filter(item => new Date(item.Date).getFullYear().toString() === selectedYear);
+            }
+ 
+            drawChart(filteredData);
+            showPartidas(filteredData);
+          });
+          selectYear.value = 'All';
+          selectMonth.value = 'All';
+          selectMonth.addEventListener('change', () => {
+            actualizarDatos();
+          });
+          
+          // Muestra los datos inicialmente
+          drawChart(quakeData);
+          showPartidas(quakeData);
+
+          selectYear.value = 'All';
+          selectMonth.value = 'All';
+          actualizarDatos();
+        })
+        .catch(error => {
+          console.error('Error al cargar el JSON:', error);
+        });
+
+
+      function drawChart(data) {
+        const chartData = google.visualization.arrayToDataTable([
+          ['Jugador', 'Victorias'],
+          ...calculateVictoriesByPlayer(data)
+        ]);
+
+        const options = {
+          title: 'Matches Won',
+          pieHole: 0.4,
+        };
+
+        const chart = new google.visualization.PieChart(chartContainer);
+        chart.draw(chartData, options);
+      }
+
+      function calculateVictoriesByPlayer(data) {
+        const victories = {};
+        data.forEach(item => {
+          victories[item.Name] = (victories[item.Name] || 0) + (item.Win === 1 ? 1 : 0);
+        });
+        return Object.entries(victories);
+      }
+
+      function showPartidas(data) {
+        partidasDiv.innerHTML = '';
+        data.forEach(partida => {
+          const partidaHTML = document.createElement('p');
+          partidaHTML.textContent = `${partida.Date} - ${partida.Map} - ${partida.Name} ${partida.WScore} : ${partida.LScore}`;
+          partidasDiv.appendChild(partidaHTML);
+        });
+      }
+    });
+
+    document.addEventListener("DOMContentLoaded", () => {
+      if (!sessionStorage.getItem('reloaded')) {
+        // Ejecutar reload después de 1 segundo (1000 milisegundos)
+        setTimeout(() => {
+          sessionStorage.setItem('reloaded', 'true');
+          location.reload();
+        }, 100);
+      }
+    });
+   
+    google.charts.setOnLoadCallback(function() {
+      const options = {
+        backgroundColor: 'black',
+        colors: ['white'], // Define el color del texto como blanco
+        // Agrega más opciones de personalización si es necesario
+      };
+  
+      // Resto del código para cargar y dibujar el gráfico
+    });
+
+  </script>
+</body>
+</html>
